@@ -1,0 +1,251 @@
+{
+  "name": "poverty-status-by-county",
+  "datapackage_version": "1.0-beta.18",
+  "title": "Poverty Status by County",
+  "description": "Poverty Status by County reports the number and percentage of people and children living in poverty, by race/ethnicity and age range.",
+  "version": "1.0",
+  "licenses": [{
+    "url": "http://opendatacommons.org/licenses/pddl/",
+    "name": "Open Data Commons Public Domain",
+    "version": "1.0",
+    "id": "odc-pddl"
+  }],
+  "sources": [{
+    "name": "uscensus",
+    "web": ""
+  }],
+  "author":[{
+    "name": "Jenna Daly",
+    "email": "jdaly@ctdata.org",
+    "web": "http://ctdata.org"
+  }],
+  "contributor": [],
+  "resources": [{
+    "path": "data/poverty-status-by-county-2016.csv",
+    "format": "csv",
+    "schema": {
+      "fields": [{
+          "name": "County",
+          "type": "string",
+          "dimension": false
+        }, {
+          "name": "FIPS",
+          "type": "string",
+          "dimension": false
+        }, {
+          "name": "Year",
+          "type": "string",
+          "dimension": false
+        }, {
+          "name": "Race/Ethnicity",
+          "type": "string",
+          "dimension": true,
+          "constraints": {
+            "enum": ["All",
+                     "American Indian and Alaska Native Alone",   
+                     "Asian Alone",                                
+                     "Black or African American Alone",           
+                     "Hispanic or Latino",                         
+                     "Native Hawaiian and Other Pacific Islander",
+                     "Some Other Race Alone",                      
+                     "Two or More Races",                        
+                     "White Alone",                                
+                     "White Alone Not Hispanic or Latino"]
+         }
+        }, {      
+          "name": "Age",
+          "type": "string",
+          "dimension": true,
+          "constraints": {
+            "enum": ["Total",             
+                     "Under 18"]
+         }
+        }, {      
+          "name": "Poverty Status",
+          "type": "string",
+          "dimension": true,
+          "constraints": {
+            "enum": ["Below Poverty Level", 
+                     "Poverty Status Determined"]
+         }
+        }, {              
+          "name": "Measure Type",
+          "type": "string",
+          "dimension": true,
+          "constraints": {
+            "enum": ["Number", "Percent"]
+         }
+        }, {
+          "name": "Variable",
+          "type": "string",
+          "dimension": true,
+          "constraints": {
+            "enum": ["Poverty Status", "Margins of Error"]
+         }
+        }, {
+          "name": "Value",
+          "type": "number",
+          "dimension": false
+        }]
+      }
+    }
+  ],
+  "last_modified": "12/12/2017",
+  "ckan_extras": {
+    "full_description": {
+      "ckan_name": "Full Description",
+      "value": "<p>The Census Bureau determines that a person is living in poverty when his or her total household income compared with the size and composition of the household is below the poverty threshold. The Census Bureau uses the federal government's official definition of poverty to determine the poverty threshold. Beginning in 2000, individuals were presented with the option to select one or more races. In addition, the Census asked individuals to identify their race separately from identifying their Hispanic origin. The Census has published individual tables for the races and ethnicities provided as supplemental information to the main table that does not dissaggregate by race or ethnicity. Race categories include the following - White, Black or African American, American Indian or Alaska Native, Asian, Native Hawaiian or Other Pacific Islander, Some other race, and Two or more races. We are not including specific combinations of two or more races as the counts of these combinations are small. Ethnic categories include - Hispanic or Latino and White Non-Hispanic. This data comes from the American Community Survey (ACS) 5-Year estimates, table B17001. The ACS collects these data from a sample of households on a rolling monthly basis. ACS aggregates samples into one-, three-, or five-year periods. CTdata.org generally carries the five-year datasets, as they are considered to be the most accurate, especially for geographic areas that are the size of a county or smaller.</p><p>Poverty status determined is the denominator for the poverty rate. It is the population for which poverty status was determined so when poverty is calculated they exclude institutionalized people, people in military group quarters, people in college dormitories, and unrelated individuals under 15 years of age.</p><p>Below poverty level are households as determined by the thresholds based on the criteria of looking at household size, Below poverty level are households as determined by the thresholds based on the criteria of looking at household size, number of children, and age of householder.number of children, and age of householder.</p>",
+      "type": "string"
+    },
+    "suppression": {
+      "ckan_name": "Suppression",
+      "value": "",
+      "type": "string"
+    },
+    "technical_notes": {
+      "ckan_name": "Technical Notes",
+      "value": "The margin of error for these data points are based on summed original values. They are to be considered approximations only.",
+      "type": "string"
+    },
+    "socrata": {
+      "ckan_name": "Socrata",
+      "value": "False",
+      "type": "string"
+    },
+    "socrata_url": {
+      "ckan_name": "Socrata Dataset URL",
+      "value": "",
+      "type": "string"
+    },
+    "socrata_dataset_name": {
+      "ckan_name": "Socrata Dataset Name",
+      "value": "",
+      "type": "string"
+    }, 
+    "domain": {
+      "ckan_name": "Domain",
+      "value": "Economy",
+      "type": "string"
+    },
+    "subdomain": {
+      "ckan_name": "Subdomain",
+      "value": "Poverty",
+      "type": "string"
+    },
+    "numerator": {
+      "ckan_name": "Numerator",
+      "value": "Corresponding number indicator.",
+      "type": "string"
+    },
+    "denominator": {
+      "ckan_name": "Denominator",
+      "value": "Population for which Poverty status has been determined by selected age group.",
+      "type": "string"
+    },    
+    "geography": {
+      "ckan_name": "Geography",
+      "value": "County",
+      "type": "string",
+      "constraints": {"enum": ["Town", "County", "Town/County", "District", "Other"]}
+    },
+    "frequency": {
+      "ckan_name": "Frequency",
+      "value": "Annual",
+      "type": "string"
+    },
+    "years_in_catalog": {
+      "ckan_name": "Years in Catalog",
+      "value": ["2005-2009", "2006-2010", "2007-2011", "2008-2012", "2009-2013", "2010-2014", "2011-2015", "2012-2016"],
+      "type": "array"
+    },
+    "latest_year": {
+      "ckan_name": "Latest Year Available",
+      "value": "2012-2016",
+      "type": "string"
+    },
+    "disabled_views": {
+      "ckan_name": "Disabled Views",
+      "value": [],
+      "type": "array",
+      "constraints": {"enum": ["map", "table", "bar", "line"]}
+    },
+    "units": {
+      "ckan_name": "Units",
+      "value": {
+        "Number": "",
+        "Percent": "%"
+      }
+    },
+    "expected_number_of_geographies": {
+      "ckan_name": "Expected Number of Unique Geographies",
+      "value": 9,
+      "type": "string"
+    },     
+    "default": {      
+      "ckan_name": "Default",
+      "value": {
+        "County": "Connecticut",
+        "Year": ["2012-2016"],
+        "Race/Ethnicity": "All",
+        "Poverty Status": "Below Poverty Level",
+        "Measure Type": "Percent",
+        "Variable": "Poverty Status"
+      },
+      "type": "object"
+    } 
+  },
+  "spot_checks": [
+    {
+      "type": "$lookup",
+      "filter": {
+        "County": "Connecticut",
+        "Year":	"2012-2016",
+        "Variable":	"Margins of Error",
+        "Measure Type":	"Number",
+        "Race/Ethnicity": "Asian Alone", 
+        "Age": "Total", 
+        "Poverty Status": "Poverty Status Determined"
+      },
+      "expected": {
+        "type": "$match",
+        "number type": "int",
+        "value": 1584
+      } 
+    }
+  ],
+  "dimension_groups": [
+     {
+       "Poverty Status": ["Below Poverty Level"],       
+       "Age": ["Total", "Under 18"],
+       "Race/Ethnicity": ["All", "American Indian and Alaska Native Alone",   
+                          "Asian Alone", "Black or African American Alone", 
+                          "Hispanic or Latino", "Native Hawaiian and Other Pacific Islander",
+                          "Some Other Race Alone", "Two or More Races", "White Alone", 
+                          "White Alone Not Hispanic or Latino"],
+       "Measure Type": ["Number", "Percent"],        
+       "Variable": ["Poverty Status", "Margins of Error"]     
+     }, 
+     {
+       "Poverty Status": ["Poverty Status Determined"],       
+       "Age": ["Total"],
+       "Race/Ethnicity": ["All", "American Indian and Alaska Native Alone",   
+                          "Asian Alone", "Black or African American Alone", 
+                          "Hispanic or Latino", "Native Hawaiian and Other Pacific Islander",
+                          "Some Other Race Alone", "Two or More Races", "White Alone", 
+                          "White Alone Not Hispanic or Latino"],
+       "Measure Type": ["Number"],        
+       "Variable": ["Poverty Status", "Margins of Error"]     
+     }, 
+     {
+       "Poverty Status": ["Poverty Status Determined"],       
+       "Age": ["Under 18"],
+       "Race/Ethnicity": ["All", "American Indian and Alaska Native Alone",   
+                          "Asian Alone", "Black or African American Alone", 
+                          "Hispanic or Latino", "Native Hawaiian and Other Pacific Islander",
+                          "Some Other Race Alone", "Two or More Races", "White Alone", 
+                          "White Alone Not Hispanic or Latino"],
+       "Measure Type": ["Number", "Percent"],        
+       "Variable": ["Poverty Status", "Margins of Error"]     
+     }     
+  ]
+}
