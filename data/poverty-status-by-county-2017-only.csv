@@ -1,0 +1,1261 @@
+"County","FIPS","Year","Race/Ethnicity","Age","Poverty Status","Measure Type","Variable","Value"
+"Connecticut","09","2013-2017","All","Total","Below Poverty Level","Number","Poverty Status",350783
+"Connecticut","09","2013-2017","All","Total","Below Poverty Level","Number","Margins of Error",6362
+"Connecticut","09","2013-2017","All","Total","Below Poverty Level","Percent","Poverty Status",10.06
+"Connecticut","09","2013-2017","All","Total","Below Poverty Level","Percent","Margins of Error",0.18
+"Connecticut","09","2013-2017","All","Total","Poverty Status Determined","Number","Poverty Status",3486033
+"Connecticut","09","2013-2017","All","Total","Poverty Status Determined","Number","Margins of Error",827
+"Connecticut","09","2013-2017","All","Under 18","Below Poverty Level","Number","Poverty Status",101679
+"Connecticut","09","2013-2017","All","Under 18","Below Poverty Level","Number","Margins of Error",2389.89
+"Connecticut","09","2013-2017","All","Under 18","Below Poverty Level","Percent","Poverty Status",13.51
+"Connecticut","09","2013-2017","All","Under 18","Below Poverty Level","Percent","Margins of Error",0.31
+"Connecticut","09","2013-2017","All","Under 18","Poverty Status Determined","Number","Poverty Status",752655
+"Connecticut","09","2013-2017","All","Under 18","Poverty Status Determined","Number","Margins of Error",4631.87
+"Connecticut","09","2013-2017","All","Under 18","Poverty Status Determined","Percent","Poverty Status",21.59
+"Connecticut","09","2013-2017","All","Under 18","Poverty Status Determined","Percent","Margins of Error",0.13
+"Connecticut","09","2013-2017","American Indian and Alaska Native Alone","Total","Below Poverty Level","Number","Poverty Status",1514
+"Connecticut","09","2013-2017","American Indian and Alaska Native Alone","Total","Below Poverty Level","Number","Margins of Error",439
+"Connecticut","09","2013-2017","American Indian and Alaska Native Alone","Total","Below Poverty Level","Percent","Poverty Status",17.14
+"Connecticut","09","2013-2017","American Indian and Alaska Native Alone","Total","Below Poverty Level","Percent","Margins of Error",4.68
+"Connecticut","09","2013-2017","American Indian and Alaska Native Alone","Total","Poverty Status Determined","Number","Poverty Status",8833
+"Connecticut","09","2013-2017","American Indian and Alaska Native Alone","Total","Poverty Status Determined","Number","Margins of Error",862
+"Connecticut","09","2013-2017","American Indian and Alaska Native Alone","Under 18","Below Poverty Level","Number","Poverty Status",372
+"Connecticut","09","2013-2017","American Indian and Alaska Native Alone","Under 18","Below Poverty Level","Number","Margins of Error",157.21
+"Connecticut","09","2013-2017","American Indian and Alaska Native Alone","Under 18","Below Poverty Level","Percent","Poverty Status",16.98
+"Connecticut","09","2013-2017","American Indian and Alaska Native Alone","Under 18","Below Poverty Level","Percent","Margins of Error",6.51
+"Connecticut","09","2013-2017","American Indian and Alaska Native Alone","Under 18","Poverty Status Determined","Number","Poverty Status",2191
+"Connecticut","09","2013-2017","American Indian and Alaska Native Alone","Under 18","Poverty Status Determined","Number","Margins of Error",389.91
+"Connecticut","09","2013-2017","American Indian and Alaska Native Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",24.8
+"Connecticut","09","2013-2017","American Indian and Alaska Native Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",3.69
+"Connecticut","09","2013-2017","Asian Alone","Total","Below Poverty Level","Number","Poverty Status",12665
+"Connecticut","09","2013-2017","Asian Alone","Total","Below Poverty Level","Number","Margins of Error",1290
+"Connecticut","09","2013-2017","Asian Alone","Total","Below Poverty Level","Percent","Poverty Status",8.36
+"Connecticut","09","2013-2017","Asian Alone","Total","Below Poverty Level","Percent","Margins of Error",0.85
+"Connecticut","09","2013-2017","Asian Alone","Total","Poverty Status Determined","Number","Poverty Status",151478
+"Connecticut","09","2013-2017","Asian Alone","Total","Poverty Status Determined","Number","Margins of Error",1629
+"Connecticut","09","2013-2017","Asian Alone","Under 18","Below Poverty Level","Number","Poverty Status",2562
+"Connecticut","09","2013-2017","Asian Alone","Under 18","Below Poverty Level","Number","Margins of Error",321.95
+"Connecticut","09","2013-2017","Asian Alone","Under 18","Below Poverty Level","Percent","Poverty Status",7.55
+"Connecticut","09","2013-2017","Asian Alone","Under 18","Below Poverty Level","Percent","Margins of Error",0.93
+"Connecticut","09","2013-2017","Asian Alone","Under 18","Poverty Status Determined","Number","Poverty Status",33920
+"Connecticut","09","2013-2017","Asian Alone","Under 18","Poverty Status Determined","Number","Margins of Error",951.6
+"Connecticut","09","2013-2017","Asian Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",22.39
+"Connecticut","09","2013-2017","Asian Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",0.58
+"Connecticut","09","2013-2017","Black or African American Alone","Total","Below Poverty Level","Number","Poverty Status",66875
+"Connecticut","09","2013-2017","Black or African American Alone","Total","Below Poverty Level","Number","Margins of Error",3065
+"Connecticut","09","2013-2017","Black or African American Alone","Total","Below Poverty Level","Percent","Poverty Status",18.61
+"Connecticut","09","2013-2017","Black or African American Alone","Total","Below Poverty Level","Percent","Margins of Error",0.84
+"Connecticut","09","2013-2017","Black or African American Alone","Total","Poverty Status Determined","Number","Poverty Status",359281
+"Connecticut","09","2013-2017","Black or African American Alone","Total","Poverty Status Determined","Number","Margins of Error",2524
+"Connecticut","09","2013-2017","Black or African American Alone","Under 18","Below Poverty Level","Number","Poverty Status",23694
+"Connecticut","09","2013-2017","Black or African American Alone","Under 18","Below Poverty Level","Number","Margins of Error",1260.5
+"Connecticut","09","2013-2017","Black or African American Alone","Under 18","Below Poverty Level","Percent","Poverty Status",25.75
+"Connecticut","09","2013-2017","Black or African American Alone","Under 18","Below Poverty Level","Percent","Margins of Error",1.23
+"Connecticut","09","2013-2017","Black or African American Alone","Under 18","Poverty Status Determined","Number","Poverty Status",92004
+"Connecticut","09","2013-2017","Black or African American Alone","Under 18","Poverty Status Determined","Number","Margins of Error",2150.49
+"Connecticut","09","2013-2017","Black or African American Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",25.61
+"Connecticut","09","2013-2017","Black or African American Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",0.57
+"Connecticut","09","2013-2017","Hispanic or Latino","Total","Below Poverty Level","Number","Poverty Status",123584
+"Connecticut","09","2013-2017","Hispanic or Latino","Total","Below Poverty Level","Number","Margins of Error",3859
+"Connecticut","09","2013-2017","Hispanic or Latino","Total","Below Poverty Level","Percent","Poverty Status",22.99
+"Connecticut","09","2013-2017","Hispanic or Latino","Total","Below Poverty Level","Percent","Margins of Error",0.72
+"Connecticut","09","2013-2017","Hispanic or Latino","Total","Poverty Status Determined","Number","Poverty Status",537612
+"Connecticut","09","2013-2017","Hispanic or Latino","Total","Poverty Status Determined","Number","Margins of Error",849
+"Connecticut","09","2013-2017","Hispanic or Latino","Under 18","Below Poverty Level","Number","Poverty Status",49771
+"Connecticut","09","2013-2017","Hispanic or Latino","Under 18","Below Poverty Level","Number","Margins of Error",1679.62
+"Connecticut","09","2013-2017","Hispanic or Latino","Under 18","Below Poverty Level","Percent","Poverty Status",29.12
+"Connecticut","09","2013-2017","Hispanic or Latino","Under 18","Below Poverty Level","Percent","Margins of Error",0.87
+"Connecticut","09","2013-2017","Hispanic or Latino","Under 18","Poverty Status Determined","Number","Poverty Status",170899
+"Connecticut","09","2013-2017","Hispanic or Latino","Under 18","Poverty Status Determined","Number","Margins of Error",2709.7
+"Connecticut","09","2013-2017","Hispanic or Latino","Under 18","Poverty Status Determined","Percent","Poverty Status",31.79
+"Connecticut","09","2013-2017","Hispanic or Latino","Under 18","Poverty Status Determined","Percent","Margins of Error",0.5
+"Connecticut","09","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Below Poverty Level","Number","Poverty Status",217
+"Connecticut","09","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Below Poverty Level","Number","Margins of Error",129
+"Connecticut","09","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Below Poverty Level","Percent","Poverty Status",24.52
+"Connecticut","09","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Below Poverty Level","Percent","Margins of Error",13.4
+"Connecticut","09","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Poverty Status Determined","Number","Poverty Status",885
+"Connecticut","09","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Poverty Status Determined","Number","Margins of Error",207
+"Connecticut","09","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Below Poverty Level","Number","Poverty Status",49
+"Connecticut","09","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Below Poverty Level","Number","Margins of Error",106.96
+"Connecticut","09","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Below Poverty Level","Percent","Poverty Status",34.75
+"Connecticut","09","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Below Poverty Level","Percent","Margins of Error",66.72
+"Connecticut","09","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Poverty Status Determined","Number","Poverty Status",141
+"Connecticut","09","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Poverty Status Determined","Number","Margins of Error",146.43
+"Connecticut","09","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Poverty Status Determined","Percent","Poverty Status",15.93
+"Connecticut","09","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Poverty Status Determined","Percent","Margins of Error",16.12
+"Connecticut","09","2013-2017","Some Other Race Alone","Total","Below Poverty Level","Number","Poverty Status",45727
+"Connecticut","09","2013-2017","Some Other Race Alone","Total","Below Poverty Level","Number","Margins of Error",2861
+"Connecticut","09","2013-2017","Some Other Race Alone","Total","Below Poverty Level","Percent","Poverty Status",25.88
+"Connecticut","09","2013-2017","Some Other Race Alone","Total","Below Poverty Level","Percent","Margins of Error",1.43
+"Connecticut","09","2013-2017","Some Other Race Alone","Total","Poverty Status Determined","Number","Poverty Status",176661
+"Connecticut","09","2013-2017","Some Other Race Alone","Total","Poverty Status Determined","Number","Margins of Error",5233
+"Connecticut","09","2013-2017","Some Other Race Alone","Under 18","Below Poverty Level","Number","Poverty Status",16234
+"Connecticut","09","2013-2017","Some Other Race Alone","Under 18","Below Poverty Level","Number","Margins of Error",1042.97
+"Connecticut","09","2013-2017","Some Other Race Alone","Under 18","Below Poverty Level","Percent","Poverty Status",31.95
+"Connecticut","09","2013-2017","Some Other Race Alone","Under 18","Below Poverty Level","Percent","Margins of Error",1.71
+"Connecticut","09","2013-2017","Some Other Race Alone","Under 18","Poverty Status Determined","Number","Poverty Status",50808
+"Connecticut","09","2013-2017","Some Other Race Alone","Under 18","Poverty Status Determined","Number","Margins of Error",1807.29
+"Connecticut","09","2013-2017","Some Other Race Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",28.76
+"Connecticut","09","2013-2017","Some Other Race Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",0.57
+"Connecticut","09","2013-2017","Two or More Races","Total","Below Poverty Level","Number","Poverty Status",18502
+"Connecticut","09","2013-2017","Two or More Races","Total","Below Poverty Level","Number","Margins of Error",1753
+"Connecticut","09","2013-2017","Two or More Races","Total","Below Poverty Level","Percent","Poverty Status",17.5
+"Connecticut","09","2013-2017","Two or More Races","Total","Below Poverty Level","Percent","Margins of Error",1.58
+"Connecticut","09","2013-2017","Two or More Races","Total","Poverty Status Determined","Number","Poverty Status",105703
+"Connecticut","09","2013-2017","Two or More Races","Total","Poverty Status Determined","Number","Margins of Error",3038
+"Connecticut","09","2013-2017","Two or More Races","Under 18","Below Poverty Level","Number","Poverty Status",9655
+"Connecticut","09","2013-2017","Two or More Races","Under 18","Below Poverty Level","Number","Margins of Error",838.23
+"Connecticut","09","2013-2017","Two or More Races","Under 18","Below Poverty Level","Percent","Poverty Status",18.34
+"Connecticut","09","2013-2017","Two or More Races","Under 18","Below Poverty Level","Percent","Margins of Error",1.48
+"Connecticut","09","2013-2017","Two or More Races","Under 18","Poverty Status Determined","Number","Poverty Status",52651
+"Connecticut","09","2013-2017","Two or More Races","Under 18","Poverty Status Determined","Number","Margins of Error",1701.9
+"Connecticut","09","2013-2017","Two or More Races","Under 18","Poverty Status Determined","Percent","Poverty Status",49.81
+"Connecticut","09","2013-2017","Two or More Races","Under 18","Poverty Status Determined","Percent","Margins of Error",0.74
+"Connecticut","09","2013-2017","White Alone","Total","Below Poverty Level","Number","Poverty Status",205283
+"Connecticut","09","2013-2017","White Alone","Total","Below Poverty Level","Number","Margins of Error",5159
+"Connecticut","09","2013-2017","White Alone","Total","Below Poverty Level","Percent","Poverty Status",7.65
+"Connecticut","09","2013-2017","White Alone","Total","Below Poverty Level","Percent","Margins of Error",0.19
+"Connecticut","09","2013-2017","White Alone","Total","Poverty Status Determined","Number","Poverty Status",2683192
+"Connecticut","09","2013-2017","White Alone","Total","Poverty Status Determined","Number","Margins of Error",5672
+"Connecticut","09","2013-2017","White Alone","Under 18","Below Poverty Level","Number","Poverty Status",49113
+"Connecticut","09","2013-2017","White Alone","Under 18","Below Poverty Level","Number","Margins of Error",1782.17
+"Connecticut","09","2013-2017","White Alone","Under 18","Below Poverty Level","Percent","Poverty Status",9.43
+"Connecticut","09","2013-2017","White Alone","Under 18","Below Poverty Level","Percent","Margins of Error",0.33
+"Connecticut","09","2013-2017","White Alone","Under 18","Poverty Status Determined","Number","Poverty Status",520940
+"Connecticut","09","2013-2017","White Alone","Under 18","Poverty Status Determined","Number","Margins of Error",3849.16
+"Connecticut","09","2013-2017","White Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",19.41
+"Connecticut","09","2013-2017","White Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",0.14
+"Connecticut","09","2013-2017","White Alone Not Hispanic or Latino","Total","Below Poverty Level","Number","Poverty Status",141064
+"Connecticut","09","2013-2017","White Alone Not Hispanic or Latino","Total","Below Poverty Level","Number","Margins of Error",3816
+"Connecticut","09","2013-2017","White Alone Not Hispanic or Latino","Total","Below Poverty Level","Percent","Poverty Status",5.93
+"Connecticut","09","2013-2017","White Alone Not Hispanic or Latino","Total","Below Poverty Level","Percent","Margins of Error",0.16
+"Connecticut","09","2013-2017","White Alone Not Hispanic or Latino","Total","Poverty Status Determined","Number","Poverty Status",2376879
+"Connecticut","09","2013-2017","White Alone Not Hispanic or Latino","Total","Poverty Status Determined","Number","Margins of Error",1599
+"Connecticut","09","2013-2017","White Alone Not Hispanic or Latino","Under 18","Below Poverty Level","Number","Poverty Status",23376
+"Connecticut","09","2013-2017","White Alone Not Hispanic or Latino","Under 18","Below Poverty Level","Number","Margins of Error",1134.46
+"Connecticut","09","2013-2017","White Alone Not Hispanic or Latino","Under 18","Below Poverty Level","Percent","Poverty Status",5.47
+"Connecticut","09","2013-2017","White Alone Not Hispanic or Latino","Under 18","Below Poverty Level","Percent","Margins of Error",0.26
+"Connecticut","09","2013-2017","White Alone Not Hispanic or Latino","Under 18","Poverty Status Determined","Number","Poverty Status",427701
+"Connecticut","09","2013-2017","White Alone Not Hispanic or Latino","Under 18","Poverty Status Determined","Number","Margins of Error",3101.09
+"Connecticut","09","2013-2017","White Alone Not Hispanic or Latino","Under 18","Poverty Status Determined","Percent","Poverty Status",17.99
+"Connecticut","09","2013-2017","White Alone Not Hispanic or Latino","Under 18","Poverty Status Determined","Percent","Margins of Error",0.13
+"Fairfield County","09001","2013-2017","All","Total","Below Poverty Level","Number","Poverty Status",81422
+"Fairfield County","09001","2013-2017","All","Total","Below Poverty Level","Number","Margins of Error",3054
+"Fairfield County","09001","2013-2017","All","Total","Below Poverty Level","Percent","Poverty Status",8.76
+"Fairfield County","09001","2013-2017","All","Total","Below Poverty Level","Percent","Margins of Error",0.33
+"Fairfield County","09001","2013-2017","All","Total","Poverty Status Determined","Number","Poverty Status",929135
+"Fairfield County","09001","2013-2017","All","Total","Poverty Status Determined","Number","Margins of Error",847
+"Fairfield County","09001","2013-2017","All","Under 18","Below Poverty Level","Number","Poverty Status",23525
+"Fairfield County","09001","2013-2017","All","Under 18","Below Poverty Level","Number","Margins of Error",1111.41
+"Fairfield County","09001","2013-2017","All","Under 18","Below Poverty Level","Percent","Poverty Status",10.85
+"Fairfield County","09001","2013-2017","All","Under 18","Below Poverty Level","Percent","Margins of Error",0.5
+"Fairfield County","09001","2013-2017","All","Under 18","Poverty Status Determined","Number","Poverty Status",216767
+"Fairfield County","09001","2013-2017","All","Under 18","Poverty Status Determined","Number","Margins of Error",2379.49
+"Fairfield County","09001","2013-2017","All","Under 18","Poverty Status Determined","Percent","Poverty Status",23.33
+"Fairfield County","09001","2013-2017","All","Under 18","Poverty Status Determined","Percent","Margins of Error",0.26
+"Fairfield County","09001","2013-2017","American Indian and Alaska Native Alone","Total","Below Poverty Level","Number","Poverty Status",364
+"Fairfield County","09001","2013-2017","American Indian and Alaska Native Alone","Total","Below Poverty Level","Number","Margins of Error",209
+"Fairfield County","09001","2013-2017","American Indian and Alaska Native Alone","Total","Below Poverty Level","Percent","Poverty Status",14.83
+"Fairfield County","09001","2013-2017","American Indian and Alaska Native Alone","Total","Below Poverty Level","Percent","Margins of Error",7.84
+"Fairfield County","09001","2013-2017","American Indian and Alaska Native Alone","Total","Poverty Status Determined","Number","Poverty Status",2455
+"Fairfield County","09001","2013-2017","American Indian and Alaska Native Alone","Total","Poverty Status Determined","Number","Margins of Error",550
+"Fairfield County","09001","2013-2017","American Indian and Alaska Native Alone","Under 18","Below Poverty Level","Number","Poverty Status",45
+"Fairfield County","09001","2013-2017","American Indian and Alaska Native Alone","Under 18","Below Poverty Level","Number","Margins of Error",101.79
+"Fairfield County","09001","2013-2017","American Indian and Alaska Native Alone","Under 18","Below Poverty Level","Percent","Poverty Status",9.11
+"Fairfield County","09001","2013-2017","American Indian and Alaska Native Alone","Under 18","Below Poverty Level","Percent","Margins of Error",20.91
+"Fairfield County","09001","2013-2017","American Indian and Alaska Native Alone","Under 18","Poverty Status Determined","Number","Poverty Status",494
+"Fairfield County","09001","2013-2017","American Indian and Alaska Native Alone","Under 18","Poverty Status Determined","Number","Margins of Error",192.26
+"Fairfield County","09001","2013-2017","American Indian and Alaska Native Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",20.12
+"Fairfield County","09001","2013-2017","American Indian and Alaska Native Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",6.4
+"Fairfield County","09001","2013-2017","Asian Alone","Total","Below Poverty Level","Number","Poverty Status",3993
+"Fairfield County","09001","2013-2017","Asian Alone","Total","Below Poverty Level","Number","Margins of Error",701
+"Fairfield County","09001","2013-2017","Asian Alone","Total","Below Poverty Level","Percent","Poverty Status",8.24
+"Fairfield County","09001","2013-2017","Asian Alone","Total","Below Poverty Level","Percent","Margins of Error",1.44
+"Fairfield County","09001","2013-2017","Asian Alone","Total","Poverty Status Determined","Number","Poverty Status",48478
+"Fairfield County","09001","2013-2017","Asian Alone","Total","Poverty Status Determined","Number","Margins of Error",834
+"Fairfield County","09001","2013-2017","Asian Alone","Under 18","Below Poverty Level","Number","Poverty Status",914
+"Fairfield County","09001","2013-2017","Asian Alone","Under 18","Below Poverty Level","Number","Margins of Error",195.78
+"Fairfield County","09001","2013-2017","Asian Alone","Under 18","Below Poverty Level","Percent","Poverty Status",8.67
+"Fairfield County","09001","2013-2017","Asian Alone","Under 18","Below Poverty Level","Percent","Margins of Error",1.81
+"Fairfield County","09001","2013-2017","Asian Alone","Under 18","Poverty Status Determined","Number","Poverty Status",10544
+"Fairfield County","09001","2013-2017","Asian Alone","Under 18","Poverty Status Determined","Number","Margins of Error",525.71
+"Fairfield County","09001","2013-2017","Asian Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",21.75
+"Fairfield County","09001","2013-2017","Asian Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",1.02
+"Fairfield County","09001","2013-2017","Black or African American Alone","Total","Below Poverty Level","Number","Poverty Status",17305
+"Fairfield County","09001","2013-2017","Black or African American Alone","Total","Below Poverty Level","Number","Margins of Error",1516
+"Fairfield County","09001","2013-2017","Black or African American Alone","Total","Below Poverty Level","Percent","Poverty Status",16.61
+"Fairfield County","09001","2013-2017","Black or African American Alone","Total","Below Poverty Level","Percent","Margins of Error",1.44
+"Fairfield County","09001","2013-2017","Black or African American Alone","Total","Poverty Status Determined","Number","Poverty Status",104153
+"Fairfield County","09001","2013-2017","Black or African American Alone","Total","Poverty Status Determined","Number","Margins of Error",1477
+"Fairfield County","09001","2013-2017","Black or African American Alone","Under 18","Below Poverty Level","Number","Poverty Status",5929
+"Fairfield County","09001","2013-2017","Black or African American Alone","Under 18","Below Poverty Level","Number","Margins of Error",619.78
+"Fairfield County","09001","2013-2017","Black or African American Alone","Under 18","Below Poverty Level","Percent","Poverty Status",22.6
+"Fairfield County","09001","2013-2017","Black or African American Alone","Under 18","Below Poverty Level","Percent","Margins of Error",2.15
+"Fairfield County","09001","2013-2017","Black or African American Alone","Under 18","Poverty Status Determined","Number","Poverty Status",26232
+"Fairfield County","09001","2013-2017","Black or African American Alone","Under 18","Poverty Status Determined","Number","Margins of Error",1148.65
+"Fairfield County","09001","2013-2017","Black or African American Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",25.19
+"Fairfield County","09001","2013-2017","Black or African American Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",1.04
+"Fairfield County","09001","2013-2017","Hispanic or Latino","Total","Below Poverty Level","Number","Poverty Status",32147
+"Fairfield County","09001","2013-2017","Hispanic or Latino","Total","Below Poverty Level","Number","Margins of Error",2213
+"Fairfield County","09001","2013-2017","Hispanic or Latino","Total","Below Poverty Level","Percent","Poverty Status",18.12
+"Fairfield County","09001","2013-2017","Hispanic or Latino","Total","Below Poverty Level","Percent","Margins of Error",1.25
+"Fairfield County","09001","2013-2017","Hispanic or Latino","Total","Poverty Status Determined","Number","Poverty Status",177417
+"Fairfield County","09001","2013-2017","Hispanic or Latino","Total","Poverty Status Determined","Number","Margins of Error",401
+"Fairfield County","09001","2013-2017","Hispanic or Latino","Under 18","Below Poverty Level","Number","Poverty Status",11953
+"Fairfield County","09001","2013-2017","Hispanic or Latino","Under 18","Below Poverty Level","Number","Margins of Error",819.74
+"Fairfield County","09001","2013-2017","Hispanic or Latino","Under 18","Below Poverty Level","Percent","Poverty Status",22.71
+"Fairfield County","09001","2013-2017","Hispanic or Latino","Under 18","Below Poverty Level","Percent","Margins of Error",1.43
+"Fairfield County","09001","2013-2017","Hispanic or Latino","Under 18","Poverty Status Determined","Number","Poverty Status",52643
+"Fairfield County","09001","2013-2017","Hispanic or Latino","Under 18","Poverty Status Determined","Number","Margins of Error",1413.58
+"Fairfield County","09001","2013-2017","Hispanic or Latino","Under 18","Poverty Status Determined","Percent","Poverty Status",29.67
+"Fairfield County","09001","2013-2017","Hispanic or Latino","Under 18","Poverty Status Determined","Percent","Margins of Error",0.79
+"Fairfield County","09001","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Below Poverty Level","Number","Poverty Status",42
+"Fairfield County","09001","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Below Poverty Level","Number","Margins of Error",52
+"Fairfield County","09001","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Below Poverty Level","Percent","Poverty Status",11.67
+"Fairfield County","09001","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Below Poverty Level","Percent","Margins of Error",15.08
+"Fairfield County","09001","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Poverty Status Determined","Number","Poverty Status",360
+"Fairfield County","09001","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Poverty Status Determined","Number","Margins of Error",134
+"Fairfield County","09001","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Below Poverty Level","Number","Poverty Status",30
+"Fairfield County","09001","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Below Poverty Level","Number","Margins of Error",104.54
+"Fairfield County","09001","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Below Poverty Level","Percent","Poverty Status",48.39
+"Fairfield County","09001","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Below Poverty Level","Percent","Margins of Error",202.16
+"Fairfield County","09001","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Poverty Status Determined","Number","Poverty Status",62
+"Fairfield County","09001","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Poverty Status Determined","Number","Margins of Error",142.92
+"Fairfield County","09001","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Poverty Status Determined","Percent","Poverty Status",17.22
+"Fairfield County","09001","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Poverty Status Determined","Percent","Margins of Error",40.21
+"Fairfield County","09001","2013-2017","Some Other Race Alone","Total","Below Poverty Level","Number","Poverty Status",13272
+"Fairfield County","09001","2013-2017","Some Other Race Alone","Total","Below Poverty Level","Number","Margins of Error",1307
+"Fairfield County","09001","2013-2017","Some Other Race Alone","Total","Below Poverty Level","Percent","Poverty Status",20.92
+"Fairfield County","09001","2013-2017","Some Other Race Alone","Total","Below Poverty Level","Percent","Margins of Error",1.79
+"Fairfield County","09001","2013-2017","Some Other Race Alone","Total","Poverty Status Determined","Number","Poverty Status",63454
+"Fairfield County","09001","2013-2017","Some Other Race Alone","Total","Poverty Status Determined","Number","Margins of Error",3081
+"Fairfield County","09001","2013-2017","Some Other Race Alone","Under 18","Below Poverty Level","Number","Poverty Status",4577
+"Fairfield County","09001","2013-2017","Some Other Race Alone","Under 18","Below Poverty Level","Number","Margins of Error",520.48
+"Fairfield County","09001","2013-2017","Some Other Race Alone","Under 18","Below Poverty Level","Percent","Poverty Status",26.06
+"Fairfield County","09001","2013-2017","Some Other Race Alone","Under 18","Below Poverty Level","Percent","Margins of Error",2.55
+"Fairfield County","09001","2013-2017","Some Other Race Alone","Under 18","Poverty Status Determined","Number","Poverty Status",17564
+"Fairfield County","09001","2013-2017","Some Other Race Alone","Under 18","Poverty Status Determined","Number","Margins of Error",1022.83
+"Fairfield County","09001","2013-2017","Some Other Race Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",27.68
+"Fairfield County","09001","2013-2017","Some Other Race Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",0.89
+"Fairfield County","09001","2013-2017","Two or More Races","Total","Below Poverty Level","Number","Poverty Status",3375
+"Fairfield County","09001","2013-2017","Two or More Races","Total","Below Poverty Level","Number","Margins of Error",574
+"Fairfield County","09001","2013-2017","Two or More Races","Total","Below Poverty Level","Percent","Poverty Status",12.91
+"Fairfield County","09001","2013-2017","Two or More Races","Total","Below Poverty Level","Percent","Margins of Error",2.02
+"Fairfield County","09001","2013-2017","Two or More Races","Total","Poverty Status Determined","Number","Poverty Status",26138
+"Fairfield County","09001","2013-2017","Two or More Races","Total","Poverty Status Determined","Number","Margins of Error",1740
+"Fairfield County","09001","2013-2017","Two or More Races","Under 18","Below Poverty Level","Number","Poverty Status",1811
+"Fairfield County","09001","2013-2017","Two or More Races","Under 18","Below Poverty Level","Number","Margins of Error",312.74
+"Fairfield County","09001","2013-2017","Two or More Races","Under 18","Below Poverty Level","Percent","Poverty Status",12.87
+"Fairfield County","09001","2013-2017","Two or More Races","Under 18","Below Poverty Level","Percent","Margins of Error",2.08
+"Fairfield County","09001","2013-2017","Two or More Races","Under 18","Poverty Status Determined","Number","Poverty Status",14071
+"Fairfield County","09001","2013-2017","Two or More Races","Under 18","Poverty Status Determined","Number","Margins of Error",848.07
+"Fairfield County","09001","2013-2017","Two or More Races","Under 18","Poverty Status Determined","Percent","Poverty Status",53.83
+"Fairfield County","09001","2013-2017","Two or More Races","Under 18","Poverty Status Determined","Percent","Margins of Error",4.83
+"Fairfield County","09001","2013-2017","White Alone","Total","Below Poverty Level","Number","Poverty Status",43071
+"Fairfield County","09001","2013-2017","White Alone","Total","Below Poverty Level","Number","Margins of Error",2164
+"Fairfield County","09001","2013-2017","White Alone","Total","Below Poverty Level","Percent","Poverty Status",6.3
+"Fairfield County","09001","2013-2017","White Alone","Total","Below Poverty Level","Percent","Margins of Error",0.32
+"Fairfield County","09001","2013-2017","White Alone","Total","Poverty Status Determined","Number","Poverty Status",684097
+"Fairfield County","09001","2013-2017","White Alone","Total","Poverty Status Determined","Number","Margins of Error",2962
+"Fairfield County","09001","2013-2017","White Alone","Under 18","Below Poverty Level","Number","Poverty Status",10219
+"Fairfield County","09001","2013-2017","White Alone","Under 18","Below Poverty Level","Number","Margins of Error",760.37
+"Fairfield County","09001","2013-2017","White Alone","Under 18","Below Poverty Level","Percent","Poverty Status",6.91
+"Fairfield County","09001","2013-2017","White Alone","Under 18","Below Poverty Level","Percent","Margins of Error",0.51
+"Fairfield County","09001","2013-2017","White Alone","Under 18","Poverty Status Determined","Number","Poverty Status",147800
+"Fairfield County","09001","2013-2017","White Alone","Under 18","Poverty Status Determined","Number","Margins of Error",1943.06
+"Fairfield County","09001","2013-2017","White Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",21.61
+"Fairfield County","09001","2013-2017","White Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",0.27
+"Fairfield County","09001","2013-2017","White Alone Not Hispanic or Latino","Total","Below Poverty Level","Number","Poverty Status",26842
+"Fairfield County","09001","2013-2017","White Alone Not Hispanic or Latino","Total","Below Poverty Level","Number","Margins of Error",1549
+"Fairfield County","09001","2013-2017","White Alone Not Hispanic or Latino","Total","Below Poverty Level","Percent","Poverty Status",4.6
+"Fairfield County","09001","2013-2017","White Alone Not Hispanic or Latino","Total","Below Poverty Level","Percent","Margins of Error",0.27
+"Fairfield County","09001","2013-2017","White Alone Not Hispanic or Latino","Total","Poverty Status Determined","Number","Poverty Status",584074
+"Fairfield County","09001","2013-2017","White Alone Not Hispanic or Latino","Total","Poverty Status Determined","Number","Margins of Error",1264
+"Fairfield County","09001","2013-2017","White Alone Not Hispanic or Latino","Under 18","Below Poverty Level","Number","Poverty Status",4419
+"Fairfield County","09001","2013-2017","White Alone Not Hispanic or Latino","Under 18","Below Poverty Level","Number","Margins of Error",461.89
+"Fairfield County","09001","2013-2017","White Alone Not Hispanic or Latino","Under 18","Below Poverty Level","Percent","Poverty Status",3.69
+"Fairfield County","09001","2013-2017","White Alone Not Hispanic or Latino","Under 18","Below Poverty Level","Percent","Margins of Error",0.38
+"Fairfield County","09001","2013-2017","White Alone Not Hispanic or Latino","Under 18","Poverty Status Determined","Number","Poverty Status",119668
+"Fairfield County","09001","2013-2017","White Alone Not Hispanic or Latino","Under 18","Poverty Status Determined","Number","Margins of Error",1537.51
+"Fairfield County","09001","2013-2017","White Alone Not Hispanic or Latino","Under 18","Poverty Status Determined","Percent","Poverty Status",20.49
+"Fairfield County","09001","2013-2017","White Alone Not Hispanic or Latino","Under 18","Poverty Status Determined","Percent","Margins of Error",0.26
+"Hartford County","09003","2013-2017","All","Total","Below Poverty Level","Number","Poverty Status",97996
+"Hartford County","09003","2013-2017","All","Total","Below Poverty Level","Number","Margins of Error",3295
+"Hartford County","09003","2013-2017","All","Total","Below Poverty Level","Percent","Poverty Status",11.21
+"Hartford County","09003","2013-2017","All","Total","Below Poverty Level","Percent","Margins of Error",0.38
+"Hartford County","09003","2013-2017","All","Total","Poverty Status Determined","Number","Poverty Status",874029
+"Hartford County","09003","2013-2017","All","Total","Poverty Status Determined","Number","Margins of Error",869
+"Hartford County","09003","2013-2017","All","Under 18","Below Poverty Level","Number","Poverty Status",29600
+"Hartford County","09003","2013-2017","All","Under 18","Below Poverty Level","Number","Margins of Error",1200.74
+"Hartford County","09003","2013-2017","All","Under 18","Below Poverty Level","Percent","Poverty Status",15.6
+"Hartford County","09003","2013-2017","All","Under 18","Below Poverty Level","Percent","Margins of Error",0.6
+"Hartford County","09003","2013-2017","All","Under 18","Poverty Status Determined","Number","Poverty Status",189722
+"Hartford County","09003","2013-2017","All","Under 18","Poverty Status Determined","Number","Margins of Error",2266.35
+"Hartford County","09003","2013-2017","All","Under 18","Poverty Status Determined","Percent","Poverty Status",21.71
+"Hartford County","09003","2013-2017","All","Under 18","Poverty Status Determined","Percent","Margins of Error",0.26
+"Hartford County","09003","2013-2017","American Indian and Alaska Native Alone","Total","Below Poverty Level","Number","Poverty Status",475
+"Hartford County","09003","2013-2017","American Indian and Alaska Native Alone","Total","Below Poverty Level","Number","Margins of Error",232
+"Hartford County","09003","2013-2017","American Indian and Alaska Native Alone","Total","Below Poverty Level","Percent","Poverty Status",20.13
+"Hartford County","09003","2013-2017","American Indian and Alaska Native Alone","Total","Below Poverty Level","Percent","Margins of Error",8.67
+"Hartford County","09003","2013-2017","American Indian and Alaska Native Alone","Total","Poverty Status Determined","Number","Poverty Status",2360
+"Hartford County","09003","2013-2017","American Indian and Alaska Native Alone","Total","Poverty Status Determined","Number","Margins of Error",543
+"Hartford County","09003","2013-2017","American Indian and Alaska Native Alone","Under 18","Below Poverty Level","Number","Poverty Status",169
+"Hartford County","09003","2013-2017","American Indian and Alaska Native Alone","Under 18","Below Poverty Level","Number","Margins of Error",119.95
+"Hartford County","09003","2013-2017","American Indian and Alaska Native Alone","Under 18","Below Poverty Level","Percent","Poverty Status",18.59
+"Hartford County","09003","2013-2017","American Indian and Alaska Native Alone","Under 18","Below Poverty Level","Percent","Margins of Error",14.52
+"Hartford County","09003","2013-2017","American Indian and Alaska Native Alone","Under 18","Poverty Status Determined","Number","Poverty Status",909
+"Hartford County","09003","2013-2017","American Indian and Alaska Native Alone","Under 18","Poverty Status Determined","Number","Margins of Error",296.41
+"Hartford County","09003","2013-2017","American Indian and Alaska Native Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",38.52
+"Hartford County","09003","2013-2017","American Indian and Alaska Native Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",8.9
+"Hartford County","09003","2013-2017","Asian Alone","Total","Below Poverty Level","Number","Poverty Status",3405
+"Hartford County","09003","2013-2017","Asian Alone","Total","Below Poverty Level","Number","Margins of Error",715
+"Hartford County","09003","2013-2017","Asian Alone","Total","Below Poverty Level","Percent","Poverty Status",7.52
+"Hartford County","09003","2013-2017","Asian Alone","Total","Below Poverty Level","Percent","Margins of Error",1.57
+"Hartford County","09003","2013-2017","Asian Alone","Total","Poverty Status Determined","Number","Poverty Status",45255
+"Hartford County","09003","2013-2017","Asian Alone","Total","Poverty Status Determined","Number","Margins of Error",848
+"Hartford County","09003","2013-2017","Asian Alone","Under 18","Below Poverty Level","Number","Poverty Status",833
+"Hartford County","09003","2013-2017","Asian Alone","Under 18","Below Poverty Level","Number","Margins of Error",188.46
+"Hartford County","09003","2013-2017","Asian Alone","Under 18","Below Poverty Level","Percent","Poverty Status",7.69
+"Hartford County","09003","2013-2017","Asian Alone","Under 18","Below Poverty Level","Percent","Margins of Error",1.7
+"Hartford County","09003","2013-2017","Asian Alone","Under 18","Poverty Status Determined","Number","Poverty Status",10834
+"Hartford County","09003","2013-2017","Asian Alone","Under 18","Poverty Status Determined","Number","Margins of Error",504.96
+"Hartford County","09003","2013-2017","Asian Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",23.94
+"Hartford County","09003","2013-2017","Asian Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",1.02
+"Hartford County","09003","2013-2017","Black or African American Alone","Total","Below Poverty Level","Number","Poverty Status",20430
+"Hartford County","09003","2013-2017","Black or African American Alone","Total","Below Poverty Level","Number","Margins of Error",1624
+"Hartford County","09003","2013-2017","Black or African American Alone","Total","Below Poverty Level","Percent","Poverty Status",17.57
+"Hartford County","09003","2013-2017","Black or African American Alone","Total","Below Poverty Level","Percent","Margins of Error",1.38
+"Hartford County","09003","2013-2017","Black or African American Alone","Total","Poverty Status Determined","Number","Poverty Status",116297
+"Hartford County","09003","2013-2017","Black or African American Alone","Total","Poverty Status Determined","Number","Margins of Error",1420
+"Hartford County","09003","2013-2017","Black or African American Alone","Under 18","Below Poverty Level","Number","Poverty Status",7279
+"Hartford County","09003","2013-2017","Black or African American Alone","Under 18","Below Poverty Level","Number","Margins of Error",654.34
+"Hartford County","09003","2013-2017","Black or African American Alone","Under 18","Below Poverty Level","Percent","Poverty Status",24.49
+"Hartford County","09003","2013-2017","Black or African American Alone","Under 18","Below Poverty Level","Percent","Margins of Error",2
+"Hartford County","09003","2013-2017","Black or African American Alone","Under 18","Poverty Status Determined","Number","Poverty Status",29722
+"Hartford County","09003","2013-2017","Black or African American Alone","Under 18","Poverty Status Determined","Number","Margins of Error",1119.14
+"Hartford County","09003","2013-2017","Black or African American Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",25.56
+"Hartford County","09003","2013-2017","Black or African American Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",0.91
+"Hartford County","09003","2013-2017","Hispanic or Latino","Total","Below Poverty Level","Number","Poverty Status",42003
+"Hartford County","09003","2013-2017","Hispanic or Latino","Total","Below Poverty Level","Number","Margins of Error",1984
+"Hartford County","09003","2013-2017","Hispanic or Latino","Total","Below Poverty Level","Percent","Poverty Status",27.75
+"Hartford County","09003","2013-2017","Hispanic or Latino","Total","Below Poverty Level","Percent","Margins of Error",1.31
+"Hartford County","09003","2013-2017","Hispanic or Latino","Total","Poverty Status Determined","Number","Poverty Status",151335
+"Hartford County","09003","2013-2017","Hispanic or Latino","Total","Poverty Status Determined","Number","Margins of Error",353
+"Hartford County","09003","2013-2017","Hispanic or Latino","Under 18","Below Poverty Level","Number","Poverty Status",16751
+"Hartford County","09003","2013-2017","Hispanic or Latino","Under 18","Below Poverty Level","Number","Margins of Error",894.49
+"Hartford County","09003","2013-2017","Hispanic or Latino","Under 18","Below Poverty Level","Percent","Poverty Status",34.32
+"Hartford County","09003","2013-2017","Hispanic or Latino","Under 18","Below Poverty Level","Percent","Margins of Error",1.55
+"Hartford County","09003","2013-2017","Hispanic or Latino","Under 18","Poverty Status Determined","Number","Poverty Status",48809
+"Hartford County","09003","2013-2017","Hispanic or Latino","Under 18","Poverty Status Determined","Number","Margins of Error",1398.38
+"Hartford County","09003","2013-2017","Hispanic or Latino","Under 18","Poverty Status Determined","Percent","Poverty Status",32.25
+"Hartford County","09003","2013-2017","Hispanic or Latino","Under 18","Poverty Status Determined","Percent","Margins of Error",0.92
+"Hartford County","09003","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Below Poverty Level","Number","Poverty Status",136
+"Hartford County","09003","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Below Poverty Level","Number","Margins of Error",118
+"Hartford County","09003","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Below Poverty Level","Percent","Poverty Status",50.56
+"Hartford County","09003","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Below Poverty Level","Percent","Margins of Error",50.77
+"Hartford County","09003","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Poverty Status Determined","Number","Poverty Status",269
+"Hartford County","09003","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Poverty Status Determined","Number","Margins of Error",136
+"Hartford County","09003","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Below Poverty Level","Number","Poverty Status",19
+"Hartford County","09003","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Below Poverty Level","Number","Margins of Error",99.6
+"Hartford County","09003","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Below Poverty Level","Percent","Poverty Status",100
+"Hartford County","09003","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Below Poverty Level","Percent","Margins of Error",900.11
+"Hartford County","09003","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Poverty Status Determined","Number","Poverty Status",19
+"Hartford County","09003","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Poverty Status Determined","Number","Margins of Error",139.03
+"Hartford County","09003","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Poverty Status Determined","Percent","Poverty Status",7.06
+"Hartford County","09003","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Poverty Status Determined","Percent","Margins of Error",51.81
+"Hartford County","09003","2013-2017","Some Other Race Alone","Total","Below Poverty Level","Number","Poverty Status",15264
+"Hartford County","09003","2013-2017","Some Other Race Alone","Total","Below Poverty Level","Number","Margins of Error",1555
+"Hartford County","09003","2013-2017","Some Other Race Alone","Total","Below Poverty Level","Percent","Poverty Status",30.26
+"Hartford County","09003","2013-2017","Some Other Race Alone","Total","Below Poverty Level","Percent","Margins of Error",2.69
+"Hartford County","09003","2013-2017","Some Other Race Alone","Total","Poverty Status Determined","Number","Poverty Status",50435
+"Hartford County","09003","2013-2017","Some Other Race Alone","Total","Poverty Status Determined","Number","Margins of Error",2512
+"Hartford County","09003","2013-2017","Some Other Race Alone","Under 18","Below Poverty Level","Number","Poverty Status",5380
+"Hartford County","09003","2013-2017","Some Other Race Alone","Under 18","Below Poverty Level","Number","Margins of Error",587.38
+"Hartford County","09003","2013-2017","Some Other Race Alone","Under 18","Below Poverty Level","Percent","Poverty Status",38.13
+"Hartford County","09003","2013-2017","Some Other Race Alone","Under 18","Below Poverty Level","Percent","Margins of Error",3.28
+"Hartford County","09003","2013-2017","Some Other Race Alone","Under 18","Poverty Status Determined","Number","Poverty Status",14109
+"Hartford County","09003","2013-2017","Some Other Race Alone","Under 18","Poverty Status Determined","Number","Margins of Error",947.21
+"Hartford County","09003","2013-2017","Some Other Race Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",27.97
+"Hartford County","09003","2013-2017","Some Other Race Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",1.26
+"Hartford County","09003","2013-2017","Two or More Races","Total","Below Poverty Level","Number","Poverty Status",6082
+"Hartford County","09003","2013-2017","Two or More Races","Total","Below Poverty Level","Number","Margins of Error",1013
+"Hartford County","09003","2013-2017","Two or More Races","Total","Below Poverty Level","Percent","Poverty Status",20.71
+"Hartford County","09003","2013-2017","Two or More Races","Total","Below Poverty Level","Percent","Margins of Error",3.24
+"Hartford County","09003","2013-2017","Two or More Races","Total","Poverty Status Determined","Number","Poverty Status",29369
+"Hartford County","09003","2013-2017","Two or More Races","Total","Poverty Status Determined","Number","Margins of Error",1696
+"Hartford County","09003","2013-2017","Two or More Races","Under 18","Below Poverty Level","Number","Poverty Status",2859
+"Hartford County","09003","2013-2017","Two or More Races","Under 18","Below Poverty Level","Number","Margins of Error",445.19
+"Hartford County","09003","2013-2017","Two or More Races","Under 18","Below Poverty Level","Percent","Poverty Status",19.85
+"Hartford County","09003","2013-2017","Two or More Races","Under 18","Below Poverty Level","Percent","Margins of Error",2.83
+"Hartford County","09003","2013-2017","Two or More Races","Under 18","Poverty Status Determined","Number","Poverty Status",14400
+"Hartford County","09003","2013-2017","Two or More Races","Under 18","Poverty Status Determined","Number","Margins of Error",905.25
+"Hartford County","09003","2013-2017","Two or More Races","Under 18","Poverty Status Determined","Percent","Poverty Status",49.03
+"Hartford County","09003","2013-2017","Two or More Races","Under 18","Poverty Status Determined","Percent","Margins of Error",1.22
+"Hartford County","09003","2013-2017","White Alone","Total","Below Poverty Level","Number","Poverty Status",52204
+"Hartford County","09003","2013-2017","White Alone","Total","Below Poverty Level","Number","Margins of Error",2885
+"Hartford County","09003","2013-2017","White Alone","Total","Below Poverty Level","Percent","Poverty Status",8.29
+"Hartford County","09003","2013-2017","White Alone","Total","Below Poverty Level","Percent","Margins of Error",0.46
+"Hartford County","09003","2013-2017","White Alone","Total","Poverty Status Determined","Number","Poverty Status",630044
+"Hartford County","09003","2013-2017","White Alone","Total","Poverty Status Determined","Number","Margins of Error",2569
+"Hartford County","09003","2013-2017","White Alone","Under 18","Below Poverty Level","Number","Poverty Status",13061
+"Hartford County","09003","2013-2017","White Alone","Under 18","Below Poverty Level","Number","Margins of Error",855.97
+"Hartford County","09003","2013-2017","White Alone","Under 18","Below Poverty Level","Percent","Poverty Status",10.91
+"Hartford County","09003","2013-2017","White Alone","Under 18","Below Poverty Level","Percent","Margins of Error",0.7
+"Hartford County","09003","2013-2017","White Alone","Under 18","Poverty Status Determined","Number","Poverty Status",119729
+"Hartford County","09003","2013-2017","White Alone","Under 18","Poverty Status Determined","Number","Margins of Error",1750.05
+"Hartford County","09003","2013-2017","White Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",19
+"Hartford County","09003","2013-2017","White Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",0.27
+"Hartford County","09003","2013-2017","White Alone Not Hispanic or Latino","Total","Below Poverty Level","Number","Poverty Status",30642
+"Hartford County","09003","2013-2017","White Alone Not Hispanic or Latino","Total","Below Poverty Level","Number","Margins of Error",1800
+"Hartford County","09003","2013-2017","White Alone Not Hispanic or Latino","Total","Below Poverty Level","Percent","Poverty Status",5.6
+"Hartford County","09003","2013-2017","White Alone Not Hispanic or Latino","Total","Below Poverty Level","Percent","Margins of Error",0.33
+"Hartford County","09003","2013-2017","White Alone Not Hispanic or Latino","Total","Poverty Status Determined","Number","Poverty Status",547643
+"Hartford County","09003","2013-2017","White Alone Not Hispanic or Latino","Total","Poverty Status Determined","Number","Margins of Error",680
+"Hartford County","09003","2013-2017","White Alone Not Hispanic or Latino","Under 18","Below Poverty Level","Number","Poverty Status",4294
+"Hartford County","09003","2013-2017","White Alone Not Hispanic or Latino","Under 18","Below Poverty Level","Number","Margins of Error",480.8
+"Hartford County","09003","2013-2017","White Alone Not Hispanic or Latino","Under 18","Below Poverty Level","Percent","Poverty Status",4.56
+"Hartford County","09003","2013-2017","White Alone Not Hispanic or Latino","Under 18","Below Poverty Level","Percent","Margins of Error",0.51
+"Hartford County","09003","2013-2017","White Alone Not Hispanic or Latino","Under 18","Poverty Status Determined","Number","Poverty Status",94066
+"Hartford County","09003","2013-2017","White Alone Not Hispanic or Latino","Under 18","Poverty Status Determined","Number","Margins of Error",1357.79
+"Hartford County","09003","2013-2017","White Alone Not Hispanic or Latino","Under 18","Poverty Status Determined","Percent","Poverty Status",17.18
+"Hartford County","09003","2013-2017","White Alone Not Hispanic or Latino","Under 18","Poverty Status Determined","Percent","Margins of Error",0.25
+"Litchfield County","09005","2013-2017","All","Total","Below Poverty Level","Number","Poverty Status",12400
+"Litchfield County","09005","2013-2017","All","Total","Below Poverty Level","Number","Margins of Error",1095
+"Litchfield County","09005","2013-2017","All","Total","Below Poverty Level","Percent","Poverty Status",6.8
+"Litchfield County","09005","2013-2017","All","Total","Below Poverty Level","Percent","Margins of Error",0.6
+"Litchfield County","09005","2013-2017","All","Total","Poverty Status Determined","Number","Poverty Status",182316
+"Litchfield County","09005","2013-2017","All","Total","Poverty Status Determined","Number","Margins of Error",347
+"Litchfield County","09005","2013-2017","All","Under 18","Below Poverty Level","Number","Poverty Status",2527
+"Litchfield County","09005","2013-2017","All","Under 18","Below Poverty Level","Number","Margins of Error",357.18
+"Litchfield County","09005","2013-2017","All","Under 18","Below Poverty Level","Percent","Poverty Status",7.31
+"Litchfield County","09005","2013-2017","All","Under 18","Below Poverty Level","Percent","Margins of Error",1.02
+"Litchfield County","09005","2013-2017","All","Under 18","Poverty Status Determined","Number","Poverty Status",34552
+"Litchfield County","09005","2013-2017","All","Under 18","Poverty Status Determined","Number","Margins of Error",918.91
+"Litchfield County","09005","2013-2017","All","Under 18","Poverty Status Determined","Percent","Poverty Status",18.95
+"Litchfield County","09005","2013-2017","All","Under 18","Poverty Status Determined","Percent","Margins of Error",0.5
+"Litchfield County","09005","2013-2017","American Indian and Alaska Native Alone","Total","Below Poverty Level","Number","Poverty Status",43
+"Litchfield County","09005","2013-2017","American Indian and Alaska Native Alone","Total","Below Poverty Level","Number","Margins of Error",58
+"Litchfield County","09005","2013-2017","American Indian and Alaska Native Alone","Total","Below Poverty Level","Percent","Poverty Status",13.11
+"Litchfield County","09005","2013-2017","American Indian and Alaska Native Alone","Total","Below Poverty Level","Percent","Margins of Error",16.83
+"Litchfield County","09005","2013-2017","American Indian and Alaska Native Alone","Total","Poverty Status Determined","Number","Poverty Status",328
+"Litchfield County","09005","2013-2017","American Indian and Alaska Native Alone","Total","Poverty Status Determined","Number","Margins of Error",136
+"Litchfield County","09005","2013-2017","American Indian and Alaska Native Alone","Under 18","Below Poverty Level","Number","Poverty Status",0
+"Litchfield County","09005","2013-2017","American Indian and Alaska Native Alone","Under 18","Below Poverty Level","Number","Margins of Error",96.99
+"Litchfield County","09005","2013-2017","American Indian and Alaska Native Alone","Under 18","Below Poverty Level","Percent","Poverty Status",0
+"Litchfield County","09005","2013-2017","American Indian and Alaska Native Alone","Under 18","Below Poverty Level","Percent","Margins of Error",131.07
+"Litchfield County","09005","2013-2017","American Indian and Alaska Native Alone","Under 18","Poverty Status Determined","Number","Poverty Status",74
+"Litchfield County","09005","2013-2017","American Indian and Alaska Native Alone","Under 18","Poverty Status Determined","Number","Margins of Error",155.28
+"Litchfield County","09005","2013-2017","American Indian and Alaska Native Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",22.56
+"Litchfield County","09005","2013-2017","American Indian and Alaska Native Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",46.41
+"Litchfield County","09005","2013-2017","Asian Alone","Total","Below Poverty Level","Number","Poverty Status",166
+"Litchfield County","09005","2013-2017","Asian Alone","Total","Below Poverty Level","Number","Margins of Error",96
+"Litchfield County","09005","2013-2017","Asian Alone","Total","Below Poverty Level","Percent","Poverty Status",4.77
+"Litchfield County","09005","2013-2017","Asian Alone","Total","Below Poverty Level","Percent","Margins of Error",2.74
+"Litchfield County","09005","2013-2017","Asian Alone","Total","Poverty Status Determined","Number","Poverty Status",3477
+"Litchfield County","09005","2013-2017","Asian Alone","Total","Poverty Status Determined","Number","Margins of Error",219
+"Litchfield County","09005","2013-2017","Asian Alone","Under 18","Below Poverty Level","Number","Poverty Status",21
+"Litchfield County","09005","2013-2017","Asian Alone","Under 18","Below Poverty Level","Number","Margins of Error",98.22
+"Litchfield County","09005","2013-2017","Asian Alone","Under 18","Below Poverty Level","Percent","Poverty Status",2.22
+"Litchfield County","09005","2013-2017","Asian Alone","Under 18","Below Poverty Level","Percent","Margins of Error",10.38
+"Litchfield County","09005","2013-2017","Asian Alone","Under 18","Poverty Status Determined","Number","Poverty Status",945
+"Litchfield County","09005","2013-2017","Asian Alone","Under 18","Poverty Status Determined","Number","Margins of Error",205
+"Litchfield County","09005","2013-2017","Asian Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",27.18
+"Litchfield County","09005","2013-2017","Asian Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",5.64
+"Litchfield County","09005","2013-2017","Black or African American Alone","Total","Below Poverty Level","Number","Poverty Status",521
+"Litchfield County","09005","2013-2017","Black or African American Alone","Total","Below Poverty Level","Number","Margins of Error",213
+"Litchfield County","09005","2013-2017","Black or African American Alone","Total","Below Poverty Level","Percent","Poverty Status",15.11
+"Litchfield County","09005","2013-2017","Black or African American Alone","Total","Below Poverty Level","Percent","Margins of Error",5.94
+"Litchfield County","09005","2013-2017","Black or African American Alone","Total","Poverty Status Determined","Number","Poverty Status",3448
+"Litchfield County","09005","2013-2017","Black or African American Alone","Total","Poverty Status Determined","Number","Margins of Error",390
+"Litchfield County","09005","2013-2017","Black or African American Alone","Under 18","Below Poverty Level","Number","Poverty Status",174
+"Litchfield County","09005","2013-2017","Black or African American Alone","Under 18","Below Poverty Level","Number","Margins of Error",115.26
+"Litchfield County","09005","2013-2017","Black or African American Alone","Under 18","Below Poverty Level","Percent","Poverty Status",22.48
+"Litchfield County","09005","2013-2017","Black or African American Alone","Under 18","Below Poverty Level","Percent","Margins of Error",13.64
+"Litchfield County","09005","2013-2017","Black or African American Alone","Under 18","Poverty Status Determined","Number","Poverty Status",774
+"Litchfield County","09005","2013-2017","Black or African American Alone","Under 18","Poverty Status Determined","Number","Margins of Error",205.41
+"Litchfield County","09005","2013-2017","Black or African American Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",22.45
+"Litchfield County","09005","2013-2017","Black or African American Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",5.39
+"Litchfield County","09005","2013-2017","Hispanic or Latino","Total","Below Poverty Level","Number","Poverty Status",1700
+"Litchfield County","09005","2013-2017","Hispanic or Latino","Total","Below Poverty Level","Number","Margins of Error",451
+"Litchfield County","09005","2013-2017","Hispanic or Latino","Total","Below Poverty Level","Percent","Poverty Status",16.51
+"Litchfield County","09005","2013-2017","Hispanic or Latino","Total","Below Poverty Level","Percent","Margins of Error",4.38
+"Litchfield County","09005","2013-2017","Hispanic or Latino","Total","Poverty Status Determined","Number","Poverty Status",10296
+"Litchfield County","09005","2013-2017","Hispanic or Latino","Total","Poverty Status Determined","Number","Margins of Error",95
+"Litchfield County","09005","2013-2017","Hispanic or Latino","Under 18","Below Poverty Level","Number","Poverty Status",694
+"Litchfield County","09005","2013-2017","Hispanic or Latino","Under 18","Below Poverty Level","Number","Margins of Error",205.93
+"Litchfield County","09005","2013-2017","Hispanic or Latino","Under 18","Below Poverty Level","Percent","Poverty Status",20.44
+"Litchfield County","09005","2013-2017","Hispanic or Latino","Under 18","Below Poverty Level","Percent","Margins of Error",5.72
+"Litchfield County","09005","2013-2017","Hispanic or Latino","Under 18","Poverty Status Determined","Number","Poverty Status",3396
+"Litchfield County","09005","2013-2017","Hispanic or Latino","Under 18","Poverty Status Determined","Number","Margins of Error",334.7
+"Litchfield County","09005","2013-2017","Hispanic or Latino","Under 18","Poverty Status Determined","Percent","Poverty Status",32.98
+"Litchfield County","09005","2013-2017","Hispanic or Latino","Under 18","Poverty Status Determined","Percent","Margins of Error",3.24
+"Litchfield County","09005","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Below Poverty Level","Number","Poverty Status",0
+"Litchfield County","09005","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Below Poverty Level","Number","Margins of Error",28
+"Litchfield County","09005","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Below Poverty Level","Percent","Poverty Status",0
+"Litchfield County","09005","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Below Poverty Level","Percent","Margins of Error",466.67
+"Litchfield County","09005","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Poverty Status Determined","Number","Poverty Status",6
+"Litchfield County","09005","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Poverty Status Determined","Number","Margins of Error",9
+"Litchfield County","09005","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Below Poverty Level","Number","Poverty Status",0
+"Litchfield County","09005","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Below Poverty Level","Number","Margins of Error",96.99
+"Litchfield County","09005","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Below Poverty Level","Percent","Poverty Status",-9999
+"Litchfield County","09005","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Below Poverty Level","Percent","Margins of Error",-9999
+"Litchfield County","09005","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Poverty Status Determined","Number","Poverty Status",0
+"Litchfield County","09005","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Poverty Status Determined","Number","Margins of Error",137.17
+"Litchfield County","09005","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Poverty Status Determined","Percent","Poverty Status",0
+"Litchfield County","09005","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Poverty Status Determined","Percent","Margins of Error",2286.19
+"Litchfield County","09005","2013-2017","Some Other Race Alone","Total","Below Poverty Level","Number","Poverty Status",636
+"Litchfield County","09005","2013-2017","Some Other Race Alone","Total","Below Poverty Level","Number","Margins of Error",326
+"Litchfield County","09005","2013-2017","Some Other Race Alone","Total","Below Poverty Level","Percent","Poverty Status",26.29
+"Litchfield County","09005","2013-2017","Some Other Race Alone","Total","Below Poverty Level","Percent","Margins of Error",12.51
+"Litchfield County","09005","2013-2017","Some Other Race Alone","Total","Poverty Status Determined","Number","Poverty Status",2419
+"Litchfield County","09005","2013-2017","Some Other Race Alone","Total","Poverty Status Determined","Number","Margins of Error",460
+"Litchfield County","09005","2013-2017","Some Other Race Alone","Under 18","Below Poverty Level","Number","Poverty Status",257
+"Litchfield County","09005","2013-2017","Some Other Race Alone","Under 18","Below Poverty Level","Number","Margins of Error",185.63
+"Litchfield County","09005","2013-2017","Some Other Race Alone","Under 18","Below Poverty Level","Percent","Poverty Status",31.69
+"Litchfield County","09005","2013-2017","Some Other Race Alone","Under 18","Below Poverty Level","Percent","Margins of Error",20.48
+"Litchfield County","09005","2013-2017","Some Other Race Alone","Under 18","Poverty Status Determined","Number","Poverty Status",811
+"Litchfield County","09005","2013-2017","Some Other Race Alone","Under 18","Poverty Status Determined","Number","Margins of Error",261.64
+"Litchfield County","09005","2013-2017","Some Other Race Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",33.53
+"Litchfield County","09005","2013-2017","Some Other Race Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",8.74
+"Litchfield County","09005","2013-2017","Two or More Races","Total","Below Poverty Level","Number","Poverty Status",410
+"Litchfield County","09005","2013-2017","Two or More Races","Total","Below Poverty Level","Number","Margins of Error",166
+"Litchfield County","09005","2013-2017","Two or More Races","Total","Below Poverty Level","Percent","Poverty Status",14.55
+"Litchfield County","09005","2013-2017","Two or More Races","Total","Below Poverty Level","Percent","Margins of Error",5.37
+"Litchfield County","09005","2013-2017","Two or More Races","Total","Poverty Status Determined","Number","Poverty Status",2818
+"Litchfield County","09005","2013-2017","Two or More Races","Total","Poverty Status Determined","Number","Margins of Error",470
+"Litchfield County","09005","2013-2017","Two or More Races","Under 18","Below Poverty Level","Number","Poverty Status",193
+"Litchfield County","09005","2013-2017","Two or More Races","Under 18","Below Poverty Level","Number","Margins of Error",118.98
+"Litchfield County","09005","2013-2017","Two or More Races","Under 18","Below Poverty Level","Percent","Poverty Status",17.69
+"Litchfield County","09005","2013-2017","Two or More Races","Under 18","Below Poverty Level","Percent","Margins of Error",10.02
+"Litchfield County","09005","2013-2017","Two or More Races","Under 18","Poverty Status Determined","Number","Poverty Status",1091
+"Litchfield County","09005","2013-2017","Two or More Races","Under 18","Poverty Status Determined","Number","Margins of Error",265.15
+"Litchfield County","09005","2013-2017","Two or More Races","Under 18","Poverty Status Determined","Percent","Poverty Status",38.72
+"Litchfield County","09005","2013-2017","Two or More Races","Under 18","Poverty Status Determined","Percent","Margins of Error",6.84
+"Litchfield County","09005","2013-2017","White Alone","Total","Below Poverty Level","Number","Poverty Status",10624
+"Litchfield County","09005","2013-2017","White Alone","Total","Below Poverty Level","Number","Margins of Error",998
+"Litchfield County","09005","2013-2017","White Alone","Total","Below Poverty Level","Percent","Poverty Status",6.26
+"Litchfield County","09005","2013-2017","White Alone","Total","Below Poverty Level","Percent","Margins of Error",0.59
+"Litchfield County","09005","2013-2017","White Alone","Total","Poverty Status Determined","Number","Poverty Status",169820
+"Litchfield County","09005","2013-2017","White Alone","Total","Poverty Status Determined","Number","Margins of Error",636
+"Litchfield County","09005","2013-2017","White Alone","Under 18","Below Poverty Level","Number","Poverty Status",1882
+"Litchfield County","09005","2013-2017","White Alone","Under 18","Below Poverty Level","Number","Margins of Error",297.83
+"Litchfield County","09005","2013-2017","White Alone","Under 18","Below Poverty Level","Percent","Poverty Status",6.1
+"Litchfield County","09005","2013-2017","White Alone","Under 18","Below Poverty Level","Percent","Margins of Error",0.95
+"Litchfield County","09005","2013-2017","White Alone","Under 18","Poverty Status Determined","Number","Poverty Status",30857
+"Litchfield County","09005","2013-2017","White Alone","Under 18","Poverty Status Determined","Number","Margins of Error",854.11
+"Litchfield County","09005","2013-2017","White Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",18.17
+"Litchfield County","09005","2013-2017","White Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",0.5
+"Litchfield County","09005","2013-2017","White Alone Not Hispanic or Latino","Total","Below Poverty Level","Number","Poverty Status",9693
+"Litchfield County","09005","2013-2017","White Alone Not Hispanic or Latino","Total","Below Poverty Level","Number","Margins of Error",910
+"Litchfield County","09005","2013-2017","White Alone Not Hispanic or Latino","Total","Below Poverty Level","Percent","Poverty Status",5.93
+"Litchfield County","09005","2013-2017","White Alone Not Hispanic or Latino","Total","Below Poverty Level","Percent","Margins of Error",0.56
+"Litchfield County","09005","2013-2017","White Alone Not Hispanic or Latino","Total","Poverty Status Determined","Number","Poverty Status",163342
+"Litchfield County","09005","2013-2017","White Alone Not Hispanic or Latino","Total","Poverty Status Determined","Number","Margins of Error",302
+"Litchfield County","09005","2013-2017","White Alone Not Hispanic or Latino","Under 18","Below Poverty Level","Number","Poverty Status",1564
+"Litchfield County","09005","2013-2017","White Alone Not Hispanic or Latino","Under 18","Below Poverty Level","Number","Margins of Error",280.03
+"Litchfield County","09005","2013-2017","White Alone Not Hispanic or Latino","Under 18","Below Poverty Level","Percent","Poverty Status",5.44
+"Litchfield County","09005","2013-2017","White Alone Not Hispanic or Latino","Under 18","Below Poverty Level","Percent","Margins of Error",0.96
+"Litchfield County","09005","2013-2017","White Alone Not Hispanic or Latino","Under 18","Poverty Status Determined","Number","Poverty Status",28742
+"Litchfield County","09005","2013-2017","White Alone Not Hispanic or Latino","Under 18","Poverty Status Determined","Number","Margins of Error",805.65
+"Litchfield County","09005","2013-2017","White Alone Not Hispanic or Latino","Under 18","Poverty Status Determined","Percent","Poverty Status",17.6
+"Litchfield County","09005","2013-2017","White Alone Not Hispanic or Latino","Under 18","Poverty Status Determined","Percent","Margins of Error",0.49
+"Middlesex County","09007","2013-2017","All","Total","Below Poverty Level","Number","Poverty Status",11433
+"Middlesex County","09007","2013-2017","All","Total","Below Poverty Level","Number","Margins of Error",1099
+"Middlesex County","09007","2013-2017","All","Total","Below Poverty Level","Percent","Poverty Status",7.2
+"Middlesex County","09007","2013-2017","All","Total","Below Poverty Level","Percent","Margins of Error",0.69
+"Middlesex County","09007","2013-2017","All","Total","Poverty Status Determined","Number","Poverty Status",158851
+"Middlesex County","09007","2013-2017","All","Total","Poverty Status Determined","Number","Margins of Error",424
+"Middlesex County","09007","2013-2017","All","Under 18","Below Poverty Level","Number","Poverty Status",2491
+"Middlesex County","09007","2013-2017","All","Under 18","Below Poverty Level","Number","Margins of Error",407.03
+"Middlesex County","09007","2013-2017","All","Under 18","Below Poverty Level","Percent","Poverty Status",8.15
+"Middlesex County","09007","2013-2017","All","Under 18","Below Poverty Level","Percent","Margins of Error",1.31
+"Middlesex County","09007","2013-2017","All","Under 18","Poverty Status Determined","Number","Poverty Status",30556
+"Middlesex County","09007","2013-2017","All","Under 18","Poverty Status Determined","Number","Margins of Error",908.31
+"Middlesex County","09007","2013-2017","All","Under 18","Poverty Status Determined","Percent","Poverty Status",19.24
+"Middlesex County","09007","2013-2017","All","Under 18","Poverty Status Determined","Percent","Margins of Error",0.57
+"Middlesex County","09007","2013-2017","American Indian and Alaska Native Alone","Total","Below Poverty Level","Number","Poverty Status",79
+"Middlesex County","09007","2013-2017","American Indian and Alaska Native Alone","Total","Below Poverty Level","Number","Margins of Error",110
+"Middlesex County","09007","2013-2017","American Indian and Alaska Native Alone","Total","Below Poverty Level","Percent","Poverty Status",29.92
+"Middlesex County","09007","2013-2017","American Indian and Alaska Native Alone","Total","Below Poverty Level","Percent","Margins of Error",38.09
+"Middlesex County","09007","2013-2017","American Indian and Alaska Native Alone","Total","Poverty Status Determined","Number","Poverty Status",264
+"Middlesex County","09007","2013-2017","American Indian and Alaska Native Alone","Total","Poverty Status Determined","Number","Margins of Error",149
+"Middlesex County","09007","2013-2017","American Indian and Alaska Native Alone","Under 18","Below Poverty Level","Number","Poverty Status",35
+"Middlesex County","09007","2013-2017","American Indian and Alaska Native Alone","Under 18","Below Poverty Level","Number","Margins of Error",96.52
+"Middlesex County","09007","2013-2017","American Indian and Alaska Native Alone","Under 18","Below Poverty Level","Percent","Poverty Status",100
+"Middlesex County","09007","2013-2017","American Indian and Alaska Native Alone","Under 18","Below Poverty Level","Percent","Margins of Error",478.43
+"Middlesex County","09007","2013-2017","American Indian and Alaska Native Alone","Under 18","Poverty Status Determined","Number","Poverty Status",35
+"Middlesex County","09007","2013-2017","American Indian and Alaska Native Alone","Under 18","Poverty Status Determined","Number","Margins of Error",136.84
+"Middlesex County","09007","2013-2017","American Indian and Alaska Native Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",13.26
+"Middlesex County","09007","2013-2017","American Indian and Alaska Native Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",51.29
+"Middlesex County","09007","2013-2017","Asian Alone","Total","Below Poverty Level","Number","Poverty Status",294
+"Middlesex County","09007","2013-2017","Asian Alone","Total","Below Poverty Level","Number","Margins of Error",180
+"Middlesex County","09007","2013-2017","Asian Alone","Total","Below Poverty Level","Percent","Poverty Status",7.1
+"Middlesex County","09007","2013-2017","Asian Alone","Total","Below Poverty Level","Percent","Margins of Error",4.33
+"Middlesex County","09007","2013-2017","Asian Alone","Total","Poverty Status Determined","Number","Poverty Status",4139
+"Middlesex County","09007","2013-2017","Asian Alone","Total","Poverty Status Determined","Number","Margins of Error",241
+"Middlesex County","09007","2013-2017","Asian Alone","Under 18","Below Poverty Level","Number","Poverty Status",31
+"Middlesex County","09007","2013-2017","Asian Alone","Under 18","Below Poverty Level","Number","Margins of Error",88.83
+"Middlesex County","09007","2013-2017","Asian Alone","Under 18","Below Poverty Level","Percent","Poverty Status",3.63
+"Middlesex County","09007","2013-2017","Asian Alone","Under 18","Below Poverty Level","Percent","Margins of Error",10.36
+"Middlesex County","09007","2013-2017","Asian Alone","Under 18","Poverty Status Determined","Number","Poverty Status",855
+"Middlesex County","09007","2013-2017","Asian Alone","Under 18","Poverty Status Determined","Number","Margins of Error",169.34
+"Middlesex County","09007","2013-2017","Asian Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",20.66
+"Middlesex County","09007","2013-2017","Asian Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",3.91
+"Middlesex County","09007","2013-2017","Black or African American Alone","Total","Below Poverty Level","Number","Poverty Status",1412
+"Middlesex County","09007","2013-2017","Black or African American Alone","Total","Below Poverty Level","Number","Margins of Error",349
+"Middlesex County","09007","2013-2017","Black or African American Alone","Total","Below Poverty Level","Percent","Poverty Status",17.76
+"Middlesex County","09007","2013-2017","Black or African American Alone","Total","Below Poverty Level","Percent","Margins of Error",4.3
+"Middlesex County","09007","2013-2017","Black or African American Alone","Total","Poverty Status Determined","Number","Poverty Status",7949
+"Middlesex County","09007","2013-2017","Black or African American Alone","Total","Poverty Status Determined","Number","Margins of Error",399
+"Middlesex County","09007","2013-2017","Black or African American Alone","Under 18","Below Poverty Level","Number","Poverty Status",509
+"Middlesex County","09007","2013-2017","Black or African American Alone","Under 18","Below Poverty Level","Number","Margins of Error",194.13
+"Middlesex County","09007","2013-2017","Black or African American Alone","Under 18","Below Poverty Level","Percent","Poverty Status",26.86
+"Middlesex County","09007","2013-2017","Black or African American Alone","Under 18","Below Poverty Level","Percent","Margins of Error",9.06
+"Middlesex County","09007","2013-2017","Black or African American Alone","Under 18","Poverty Status Determined","Number","Poverty Status",1895
+"Middlesex County","09007","2013-2017","Black or African American Alone","Under 18","Poverty Status Determined","Number","Margins of Error",337.5
+"Middlesex County","09007","2013-2017","Black or African American Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",23.84
+"Middlesex County","09007","2013-2017","Black or African American Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",4.07
+"Middlesex County","09007","2013-2017","Hispanic or Latino","Total","Below Poverty Level","Number","Poverty Status",1614
+"Middlesex County","09007","2013-2017","Hispanic or Latino","Total","Below Poverty Level","Number","Margins of Error",512
+"Middlesex County","09007","2013-2017","Hispanic or Latino","Total","Below Poverty Level","Percent","Poverty Status",17.35
+"Middlesex County","09007","2013-2017","Hispanic or Latino","Total","Below Poverty Level","Percent","Margins of Error",5.5
+"Middlesex County","09007","2013-2017","Hispanic or Latino","Total","Poverty Status Determined","Number","Poverty Status",9302
+"Middlesex County","09007","2013-2017","Hispanic or Latino","Total","Poverty Status Determined","Number","Margins of Error",99
+"Middlesex County","09007","2013-2017","Hispanic or Latino","Under 18","Below Poverty Level","Number","Poverty Status",682
+"Middlesex County","09007","2013-2017","Hispanic or Latino","Under 18","Below Poverty Level","Number","Margins of Error",201.23
+"Middlesex County","09007","2013-2017","Hispanic or Latino","Under 18","Below Poverty Level","Percent","Poverty Status",23.04
+"Middlesex County","09007","2013-2017","Hispanic or Latino","Under 18","Below Poverty Level","Percent","Margins of Error",6.27
+"Middlesex County","09007","2013-2017","Hispanic or Latino","Under 18","Poverty Status Determined","Number","Poverty Status",2960
+"Middlesex County","09007","2013-2017","Hispanic or Latino","Under 18","Poverty Status Determined","Number","Margins of Error",338.51
+"Middlesex County","09007","2013-2017","Hispanic or Latino","Under 18","Poverty Status Determined","Percent","Poverty Status",31.82
+"Middlesex County","09007","2013-2017","Hispanic or Latino","Under 18","Poverty Status Determined","Percent","Margins of Error",3.62
+"Middlesex County","09007","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Below Poverty Level","Number","Poverty Status",0
+"Middlesex County","09007","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Below Poverty Level","Number","Margins of Error",28
+"Middlesex County","09007","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Below Poverty Level","Percent","Poverty Status",-9999
+"Middlesex County","09007","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Below Poverty Level","Percent","Margins of Error",-9999
+"Middlesex County","09007","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Poverty Status Determined","Number","Poverty Status",0
+"Middlesex County","09007","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Poverty Status Determined","Number","Margins of Error",28
+"Middlesex County","09007","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Below Poverty Level","Number","Poverty Status",0
+"Middlesex County","09007","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Below Poverty Level","Number","Margins of Error",96.99
+"Middlesex County","09007","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Below Poverty Level","Percent","Poverty Status",-9999
+"Middlesex County","09007","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Below Poverty Level","Percent","Margins of Error",-9999
+"Middlesex County","09007","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Poverty Status Determined","Number","Poverty Status",0
+"Middlesex County","09007","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Poverty Status Determined","Number","Margins of Error",137.17
+"Middlesex County","09007","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Poverty Status Determined","Percent","Poverty Status",-9999
+"Middlesex County","09007","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Poverty Status Determined","Percent","Margins of Error",-9999
+"Middlesex County","09007","2013-2017","Some Other Race Alone","Total","Below Poverty Level","Number","Poverty Status",167
+"Middlesex County","09007","2013-2017","Some Other Race Alone","Total","Below Poverty Level","Number","Margins of Error",95
+"Middlesex County","09007","2013-2017","Some Other Race Alone","Total","Below Poverty Level","Percent","Poverty Status",11.57
+"Middlesex County","09007","2013-2017","Some Other Race Alone","Total","Below Poverty Level","Percent","Margins of Error",5.52
+"Middlesex County","09007","2013-2017","Some Other Race Alone","Total","Poverty Status Determined","Number","Poverty Status",1444
+"Middlesex County","09007","2013-2017","Some Other Race Alone","Total","Poverty Status Determined","Number","Margins of Error",446
+"Middlesex County","09007","2013-2017","Some Other Race Alone","Under 18","Below Poverty Level","Number","Poverty Status",0
+"Middlesex County","09007","2013-2017","Some Other Race Alone","Under 18","Below Poverty Level","Number","Margins of Error",96.99
+"Middlesex County","09007","2013-2017","Some Other Race Alone","Under 18","Below Poverty Level","Percent","Poverty Status",0
+"Middlesex County","09007","2013-2017","Some Other Race Alone","Under 18","Below Poverty Level","Percent","Margins of Error",22.35
+"Middlesex County","09007","2013-2017","Some Other Race Alone","Under 18","Poverty Status Determined","Number","Poverty Status",434
+"Middlesex County","09007","2013-2017","Some Other Race Alone","Under 18","Poverty Status Determined","Number","Margins of Error",205.24
+"Middlesex County","09007","2013-2017","Some Other Race Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",30.06
+"Middlesex County","09007","2013-2017","Some Other Race Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",10.76
+"Middlesex County","09007","2013-2017","Two or More Races","Total","Below Poverty Level","Number","Poverty Status",310
+"Middlesex County","09007","2013-2017","Two or More Races","Total","Below Poverty Level","Number","Margins of Error",161
+"Middlesex County","09007","2013-2017","Two or More Races","Total","Below Poverty Level","Percent","Poverty Status",9.99
+"Middlesex County","09007","2013-2017","Two or More Races","Total","Below Poverty Level","Percent","Margins of Error",5.04
+"Middlesex County","09007","2013-2017","Two or More Races","Total","Poverty Status Determined","Number","Poverty Status",3104
+"Middlesex County","09007","2013-2017","Two or More Races","Total","Poverty Status Determined","Number","Margins of Error",382
+"Middlesex County","09007","2013-2017","Two or More Races","Under 18","Below Poverty Level","Number","Poverty Status",112
+"Middlesex County","09007","2013-2017","Two or More Races","Under 18","Below Poverty Level","Number","Margins of Error",115.81
+"Middlesex County","09007","2013-2017","Two or More Races","Under 18","Below Poverty Level","Percent","Poverty Status",7.4
+"Middlesex County","09007","2013-2017","Two or More Races","Under 18","Below Poverty Level","Percent","Margins of Error",7.53
+"Middlesex County","09007","2013-2017","Two or More Races","Under 18","Poverty Status Determined","Number","Poverty Status",1514
+"Middlesex County","09007","2013-2017","Two or More Races","Under 18","Poverty Status Determined","Number","Margins of Error",278.2
+"Middlesex County","09007","2013-2017","Two or More Races","Under 18","Poverty Status Determined","Percent","Poverty Status",48.78
+"Middlesex County","09007","2013-2017","Two or More Races","Under 18","Poverty Status Determined","Percent","Margins of Error",6.66
+"Middlesex County","09007","2013-2017","White Alone","Total","Below Poverty Level","Number","Poverty Status",9171
+"Middlesex County","09007","2013-2017","White Alone","Total","Below Poverty Level","Number","Margins of Error",1038
+"Middlesex County","09007","2013-2017","White Alone","Total","Below Poverty Level","Percent","Poverty Status",6.46
+"Middlesex County","09007","2013-2017","White Alone","Total","Below Poverty Level","Percent","Margins of Error",0.73
+"Middlesex County","09007","2013-2017","White Alone","Total","Poverty Status Determined","Number","Poverty Status",141951
+"Middlesex County","09007","2013-2017","White Alone","Total","Poverty Status Determined","Number","Margins of Error",649
+"Middlesex County","09007","2013-2017","White Alone","Under 18","Below Poverty Level","Number","Poverty Status",1804
+"Middlesex County","09007","2013-2017","White Alone","Under 18","Below Poverty Level","Number","Margins of Error",364.34
+"Middlesex County","09007","2013-2017","White Alone","Under 18","Below Poverty Level","Percent","Poverty Status",6.99
+"Middlesex County","09007","2013-2017","White Alone","Under 18","Below Poverty Level","Percent","Margins of Error",1.39
+"Middlesex County","09007","2013-2017","White Alone","Under 18","Poverty Status Determined","Number","Poverty Status",25823
+"Middlesex County","09007","2013-2017","White Alone","Under 18","Poverty Status Determined","Number","Margins of Error",831.06
+"Middlesex County","09007","2013-2017","White Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",18.19
+"Middlesex County","09007","2013-2017","White Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",0.58
+"Middlesex County","09007","2013-2017","White Alone Not Hispanic or Latino","Total","Below Poverty Level","Number","Poverty Status",7970
+"Middlesex County","09007","2013-2017","White Alone Not Hispanic or Latino","Total","Below Poverty Level","Number","Margins of Error",799
+"Middlesex County","09007","2013-2017","White Alone Not Hispanic or Latino","Total","Below Poverty Level","Percent","Poverty Status",5.92
+"Middlesex County","09007","2013-2017","White Alone Not Hispanic or Latino","Total","Below Poverty Level","Percent","Margins of Error",0.59
+"Middlesex County","09007","2013-2017","White Alone Not Hispanic or Latino","Total","Poverty Status Determined","Number","Poverty Status",134740
+"Middlesex County","09007","2013-2017","White Alone Not Hispanic or Latino","Total","Poverty Status Determined","Number","Margins of Error",456
+"Middlesex County","09007","2013-2017","White Alone Not Hispanic or Latino","Under 18","Below Poverty Level","Number","Poverty Status",1308
+"Middlesex County","09007","2013-2017","White Alone Not Hispanic or Latino","Under 18","Below Poverty Level","Number","Margins of Error",295.94
+"Middlesex County","09007","2013-2017","White Alone Not Hispanic or Latino","Under 18","Below Poverty Level","Percent","Poverty Status",5.55
+"Middlesex County","09007","2013-2017","White Alone Not Hispanic or Latino","Under 18","Below Poverty Level","Percent","Margins of Error",1.24
+"Middlesex County","09007","2013-2017","White Alone Not Hispanic or Latino","Under 18","Poverty Status Determined","Number","Poverty Status",23583
+"Middlesex County","09007","2013-2017","White Alone Not Hispanic or Latino","Under 18","Poverty Status Determined","Number","Margins of Error",749.86
+"Middlesex County","09007","2013-2017","White Alone Not Hispanic or Latino","Under 18","Poverty Status Determined","Percent","Poverty Status",17.5
+"Middlesex County","09007","2013-2017","White Alone Not Hispanic or Latino","Under 18","Poverty Status Determined","Percent","Margins of Error",0.55
+"New Haven County","09009","2013-2017","All","Total","Below Poverty Level","Number","Poverty Status",100732
+"New Haven County","09009","2013-2017","All","Total","Below Poverty Level","Number","Margins of Error",3720
+"New Haven County","09009","2013-2017","All","Total","Below Poverty Level","Percent","Poverty Status",12.05
+"New Haven County","09009","2013-2017","All","Total","Below Poverty Level","Percent","Margins of Error",0.44
+"New Haven County","09009","2013-2017","All","Total","Poverty Status Determined","Number","Poverty Status",835945
+"New Haven County","09009","2013-2017","All","Total","Poverty Status Determined","Number","Margins of Error",772
+"New Haven County","09009","2013-2017","All","Under 18","Below Poverty Level","Number","Poverty Status",30291
+"New Haven County","09009","2013-2017","All","Under 18","Below Poverty Level","Number","Margins of Error",1374.9
+"New Haven County","09009","2013-2017","All","Under 18","Below Poverty Level","Percent","Poverty Status",17.07
+"New Haven County","09009","2013-2017","All","Under 18","Below Poverty Level","Percent","Margins of Error",0.73
+"New Haven County","09009","2013-2017","All","Under 18","Poverty Status Determined","Number","Poverty Status",177423
+"New Haven County","09009","2013-2017","All","Under 18","Poverty Status Determined","Number","Margins of Error",2609.49
+"New Haven County","09009","2013-2017","All","Under 18","Poverty Status Determined","Percent","Poverty Status",21.22
+"New Haven County","09009","2013-2017","All","Under 18","Poverty Status Determined","Percent","Margins of Error",0.31
+"New Haven County","09009","2013-2017","American Indian and Alaska Native Alone","Total","Below Poverty Level","Number","Poverty Status",205
+"New Haven County","09009","2013-2017","American Indian and Alaska Native Alone","Total","Below Poverty Level","Number","Margins of Error",100
+"New Haven County","09009","2013-2017","American Indian and Alaska Native Alone","Total","Below Poverty Level","Percent","Poverty Status",19.32
+"New Haven County","09009","2013-2017","American Indian and Alaska Native Alone","Total","Below Poverty Level","Percent","Margins of Error",7.84
+"New Haven County","09009","2013-2017","American Indian and Alaska Native Alone","Total","Poverty Status Determined","Number","Poverty Status",1061
+"New Haven County","09009","2013-2017","American Indian and Alaska Native Alone","Total","Poverty Status Determined","Number","Margins of Error",287
+"New Haven County","09009","2013-2017","American Indian and Alaska Native Alone","Under 18","Below Poverty Level","Number","Poverty Status",35
+"New Haven County","09009","2013-2017","American Indian and Alaska Native Alone","Under 18","Below Poverty Level","Number","Margins of Error",84.43
+"New Haven County","09009","2013-2017","American Indian and Alaska Native Alone","Under 18","Below Poverty Level","Percent","Poverty Status",20.83
+"New Haven County","09009","2013-2017","American Indian and Alaska Native Alone","Under 18","Below Poverty Level","Percent","Margins of Error",53.33
+"New Haven County","09009","2013-2017","American Indian and Alaska Native Alone","Under 18","Poverty Status Determined","Number","Poverty Status",168
+"New Haven County","09009","2013-2017","American Indian and Alaska Native Alone","Under 18","Poverty Status Determined","Number","Margins of Error",143.9
+"New Haven County","09009","2013-2017","American Indian and Alaska Native Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",15.83
+"New Haven County","09009","2013-2017","American Indian and Alaska Native Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",12.87
+"New Haven County","09009","2013-2017","Asian Alone","Total","Below Poverty Level","Number","Poverty Status",3251
+"New Haven County","09009","2013-2017","Asian Alone","Total","Below Poverty Level","Number","Margins of Error",522
+"New Haven County","09009","2013-2017","Asian Alone","Total","Below Poverty Level","Percent","Poverty Status",9.96
+"New Haven County","09009","2013-2017","Asian Alone","Total","Below Poverty Level","Percent","Margins of Error",1.58
+"New Haven County","09009","2013-2017","Asian Alone","Total","Poverty Status Determined","Number","Poverty Status",32625
+"New Haven County","09009","2013-2017","Asian Alone","Total","Poverty Status Determined","Number","Margins of Error",759
+"New Haven County","09009","2013-2017","Asian Alone","Under 18","Below Poverty Level","Number","Poverty Status",453
+"New Haven County","09009","2013-2017","Asian Alone","Under 18","Below Poverty Level","Number","Margins of Error",134.04
+"New Haven County","09009","2013-2017","Asian Alone","Under 18","Below Poverty Level","Percent","Poverty Status",6.48
+"New Haven County","09009","2013-2017","Asian Alone","Under 18","Below Poverty Level","Percent","Margins of Error",1.87
+"New Haven County","09009","2013-2017","Asian Alone","Under 18","Poverty Status Determined","Number","Poverty Status",6987
+"New Haven County","09009","2013-2017","Asian Alone","Under 18","Poverty Status Determined","Number","Margins of Error",450.48
+"New Haven County","09009","2013-2017","Asian Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",21.42
+"New Haven County","09009","2013-2017","Asian Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",1.29
+"New Haven County","09009","2013-2017","Black or African American Alone","Total","Below Poverty Level","Number","Poverty Status",23182
+"New Haven County","09009","2013-2017","Black or African American Alone","Total","Below Poverty Level","Number","Margins of Error",1640
+"New Haven County","09009","2013-2017","Black or African American Alone","Total","Below Poverty Level","Percent","Poverty Status",21.4
+"New Haven County","09009","2013-2017","Black or African American Alone","Total","Below Poverty Level","Percent","Margins of Error",1.49
+"New Haven County","09009","2013-2017","Black or African American Alone","Total","Poverty Status Determined","Number","Poverty Status",108348
+"New Haven County","09009","2013-2017","Black or African American Alone","Total","Poverty Status Determined","Number","Margins of Error",1447
+"New Haven County","09009","2013-2017","Black or African American Alone","Under 18","Below Poverty Level","Number","Poverty Status",8441
+"New Haven County","09009","2013-2017","Black or African American Alone","Under 18","Below Poverty Level","Number","Margins of Error",744.4
+"New Haven County","09009","2013-2017","Black or African American Alone","Under 18","Below Poverty Level","Percent","Poverty Status",29.43
+"New Haven County","09009","2013-2017","Black or African American Alone","Under 18","Below Poverty Level","Percent","Margins of Error",2.27
+"New Haven County","09009","2013-2017","Black or African American Alone","Under 18","Poverty Status Determined","Number","Poverty Status",28685
+"New Haven County","09009","2013-2017","Black or African American Alone","Under 18","Poverty Status Determined","Number","Margins of Error",1222.39
+"New Haven County","09009","2013-2017","Black or African American Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",26.47
+"New Haven County","09009","2013-2017","Black or African American Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",1.07
+"New Haven County","09009","2013-2017","Hispanic or Latino","Total","Below Poverty Level","Number","Poverty Status",34536
+"New Haven County","09009","2013-2017","Hispanic or Latino","Total","Below Poverty Level","Number","Margins of Error",2537
+"New Haven County","09009","2013-2017","Hispanic or Latino","Total","Below Poverty Level","Percent","Poverty Status",23.84
+"New Haven County","09009","2013-2017","Hispanic or Latino","Total","Below Poverty Level","Percent","Margins of Error",1.75
+"New Haven County","09009","2013-2017","Hispanic or Latino","Total","Poverty Status Determined","Number","Poverty Status",144889
+"New Haven County","09009","2013-2017","Hispanic or Latino","Total","Poverty Status Determined","Number","Margins of Error",379
+"New Haven County","09009","2013-2017","Hispanic or Latino","Under 18","Below Poverty Level","Number","Poverty Status",14525
+"New Haven County","09009","2013-2017","Hispanic or Latino","Under 18","Below Poverty Level","Number","Margins of Error",969.91
+"New Haven County","09009","2013-2017","Hispanic or Latino","Under 18","Below Poverty Level","Percent","Poverty Status",30.25
+"New Haven County","09009","2013-2017","Hispanic or Latino","Under 18","Below Poverty Level","Percent","Margins of Error",1.76
+"New Haven County","09009","2013-2017","Hispanic or Latino","Under 18","Poverty Status Determined","Number","Poverty Status",48020
+"New Haven County","09009","2013-2017","Hispanic or Latino","Under 18","Poverty Status Determined","Number","Margins of Error",1559.73
+"New Haven County","09009","2013-2017","Hispanic or Latino","Under 18","Poverty Status Determined","Percent","Poverty Status",33.14
+"New Haven County","09009","2013-2017","Hispanic or Latino","Under 18","Poverty Status Determined","Percent","Margins of Error",1.07
+"New Haven County","09009","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Below Poverty Level","Number","Poverty Status",32
+"New Haven County","09009","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Below Poverty Level","Number","Margins of Error",35
+"New Haven County","09009","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Below Poverty Level","Percent","Poverty Status",19.05
+"New Haven County","09009","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Below Poverty Level","Percent","Margins of Error",23.1
+"New Haven County","09009","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Poverty Status Determined","Number","Poverty Status",168
+"New Haven County","09009","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Poverty Status Determined","Number","Margins of Error",88
+"New Haven County","09009","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Below Poverty Level","Number","Poverty Status",0
+"New Haven County","09009","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Below Poverty Level","Number","Margins of Error",96.99
+"New Haven County","09009","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Below Poverty Level","Percent","Poverty Status",0
+"New Haven County","09009","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Below Poverty Level","Percent","Margins of Error",312.89
+"New Haven County","09009","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Poverty Status Determined","Number","Poverty Status",31
+"New Haven County","09009","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Poverty Status Determined","Number","Margins of Error",137.13
+"New Haven County","09009","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Poverty Status Determined","Percent","Poverty Status",18.45
+"New Haven County","09009","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Poverty Status Determined","Percent","Margins of Error",82.19
+"New Haven County","09009","2013-2017","Some Other Race Alone","Total","Below Poverty Level","Number","Poverty Status",12191
+"New Haven County","09009","2013-2017","Some Other Race Alone","Total","Below Poverty Level","Number","Margins of Error",1546
+"New Haven County","09009","2013-2017","Some Other Race Alone","Total","Below Poverty Level","Percent","Poverty Status",26.41
+"New Haven County","09009","2013-2017","Some Other Race Alone","Total","Below Poverty Level","Percent","Margins of Error",2.96
+"New Haven County","09009","2013-2017","Some Other Race Alone","Total","Poverty Status Determined","Number","Poverty Status",46162
+"New Haven County","09009","2013-2017","Some Other Race Alone","Total","Poverty Status Determined","Number","Margins of Error",2733
+"New Haven County","09009","2013-2017","Some Other Race Alone","Under 18","Below Poverty Level","Number","Poverty Status",4433
+"New Haven County","09009","2013-2017","Some Other Race Alone","Under 18","Below Poverty Level","Number","Margins of Error",613.68
+"New Haven County","09009","2013-2017","Some Other Race Alone","Under 18","Below Poverty Level","Percent","Poverty Status",30.6
+"New Haven County","09009","2013-2017","Some Other Race Alone","Under 18","Below Poverty Level","Percent","Margins of Error",3.64
+"New Haven County","09009","2013-2017","Some Other Race Alone","Under 18","Poverty Status Determined","Number","Poverty Status",14489
+"New Haven County","09009","2013-2017","Some Other Race Alone","Under 18","Poverty Status Determined","Number","Margins of Error",1026.59
+"New Haven County","09009","2013-2017","Some Other Race Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",31.39
+"New Haven County","09009","2013-2017","Some Other Race Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",1.22
+"New Haven County","09009","2013-2017","Two or More Races","Total","Below Poverty Level","Number","Poverty Status",4832
+"New Haven County","09009","2013-2017","Two or More Races","Total","Below Poverty Level","Number","Margins of Error",955
+"New Haven County","09009","2013-2017","Two or More Races","Total","Below Poverty Level","Percent","Poverty Status",19.84
+"New Haven County","09009","2013-2017","Two or More Races","Total","Below Poverty Level","Percent","Margins of Error",3.65
+"New Haven County","09009","2013-2017","Two or More Races","Total","Poverty Status Determined","Number","Poverty Status",24349
+"New Haven County","09009","2013-2017","Two or More Races","Total","Poverty Status Determined","Number","Margins of Error",1748
+"New Haven County","09009","2013-2017","Two or More Races","Under 18","Below Poverty Level","Number","Poverty Status",2624
+"New Haven County","09009","2013-2017","Two or More Races","Under 18","Below Poverty Level","Number","Margins of Error",477.49
+"New Haven County","09009","2013-2017","Two or More Races","Under 18","Below Poverty Level","Percent","Poverty Status",22.17
+"New Haven County","09009","2013-2017","Two or More Races","Under 18","Below Poverty Level","Percent","Margins of Error",3.68
+"New Haven County","09009","2013-2017","Two or More Races","Under 18","Poverty Status Determined","Number","Poverty Status",11836
+"New Haven County","09009","2013-2017","Two or More Races","Under 18","Poverty Status Determined","Number","Margins of Error",882.27
+"New Haven County","09009","2013-2017","Two or More Races","Under 18","Poverty Status Determined","Percent","Poverty Status",48.61
+"New Haven County","09009","2013-2017","Two or More Races","Under 18","Poverty Status Determined","Percent","Margins of Error",0.98
+"New Haven County","09009","2013-2017","White Alone","Total","Below Poverty Level","Number","Poverty Status",57039
+"New Haven County","09009","2013-2017","White Alone","Total","Below Poverty Level","Number","Margins of Error",2949
+"New Haven County","09009","2013-2017","White Alone","Total","Below Poverty Level","Percent","Poverty Status",9.15
+"New Haven County","09009","2013-2017","White Alone","Total","Below Poverty Level","Percent","Margins of Error",0.47
+"New Haven County","09009","2013-2017","White Alone","Total","Poverty Status Determined","Number","Poverty Status",623232
+"New Haven County","09009","2013-2017","White Alone","Total","Poverty Status Determined","Number","Margins of Error",3138
+"New Haven County","09009","2013-2017","White Alone","Under 18","Below Poverty Level","Number","Poverty Status",14305
+"New Haven County","09009","2013-2017","White Alone","Under 18","Below Poverty Level","Number","Margins of Error",1042.36
+"New Haven County","09009","2013-2017","White Alone","Under 18","Below Poverty Level","Percent","Poverty Status",12.41
+"New Haven County","09009","2013-2017","White Alone","Under 18","Below Poverty Level","Percent","Margins of Error",0.88
+"New Haven County","09009","2013-2017","White Alone","Under 18","Poverty Status Determined","Number","Poverty Status",115227
+"New Haven County","09009","2013-2017","White Alone","Under 18","Poverty Status Determined","Number","Margins of Error",2067.17
+"New Haven County","09009","2013-2017","White Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",18.49
+"New Haven County","09009","2013-2017","White Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",0.32
+"New Haven County","09009","2013-2017","White Alone Not Hispanic or Latino","Total","Below Poverty Level","Number","Poverty Status",38115
+"New Haven County","09009","2013-2017","White Alone Not Hispanic or Latino","Total","Below Poverty Level","Number","Margins of Error",1994
+"New Haven County","09009","2013-2017","White Alone Not Hispanic or Latino","Total","Below Poverty Level","Percent","Poverty Status",7.11
+"New Haven County","09009","2013-2017","White Alone Not Hispanic or Latino","Total","Below Poverty Level","Percent","Margins of Error",0.37
+"New Haven County","09009","2013-2017","White Alone Not Hispanic or Latino","Total","Poverty Status Determined","Number","Poverty Status",536405
+"New Haven County","09009","2013-2017","White Alone Not Hispanic or Latino","Total","Poverty Status Determined","Number","Margins of Error",809
+"New Haven County","09009","2013-2017","White Alone Not Hispanic or Latino","Under 18","Below Poverty Level","Number","Poverty Status",6285
+"New Haven County","09009","2013-2017","White Alone Not Hispanic or Latino","Under 18","Below Poverty Level","Number","Margins of Error",645.79
+"New Haven County","09009","2013-2017","White Alone Not Hispanic or Latino","Under 18","Below Poverty Level","Percent","Poverty Status",7.16
+"New Haven County","09009","2013-2017","White Alone Not Hispanic or Latino","Under 18","Below Poverty Level","Percent","Margins of Error",0.72
+"New Haven County","09009","2013-2017","White Alone Not Hispanic or Latino","Under 18","Poverty Status Determined","Number","Poverty Status",87766
+"New Haven County","09009","2013-2017","White Alone Not Hispanic or Latino","Under 18","Poverty Status Determined","Number","Margins of Error",1589.69
+"New Haven County","09009","2013-2017","White Alone Not Hispanic or Latino","Under 18","Poverty Status Determined","Percent","Poverty Status",16.36
+"New Haven County","09009","2013-2017","White Alone Not Hispanic or Latino","Under 18","Poverty Status Determined","Percent","Margins of Error",0.3
+"New London County","09011","2013-2017","All","Total","Below Poverty Level","Number","Poverty Status",25689
+"New London County","09011","2013-2017","All","Total","Below Poverty Level","Number","Margins of Error",1812
+"New London County","09011","2013-2017","All","Total","Below Poverty Level","Percent","Poverty Status",9.93
+"New London County","09011","2013-2017","All","Total","Below Poverty Level","Percent","Margins of Error",0.7
+"New London County","09011","2013-2017","All","Total","Poverty Status Determined","Number","Poverty Status",258574
+"New London County","09011","2013-2017","All","Total","Poverty Status Determined","Number","Margins of Error",546
+"New London County","09011","2013-2017","All","Under 18","Below Poverty Level","Number","Poverty Status",8389
+"New London County","09011","2013-2017","All","Under 18","Below Poverty Level","Number","Margins of Error",728.51
+"New London County","09011","2013-2017","All","Under 18","Below Poverty Level","Percent","Poverty Status",15.72
+"New London County","09011","2013-2017","All","Under 18","Below Poverty Level","Percent","Margins of Error",1.31
+"New London County","09011","2013-2017","All","Under 18","Poverty Status Determined","Number","Poverty Status",53360
+"New London County","09011","2013-2017","All","Under 18","Poverty Status Determined","Number","Margins of Error",1319.54
+"New London County","09011","2013-2017","All","Under 18","Poverty Status Determined","Percent","Poverty Status",20.64
+"New London County","09011","2013-2017","All","Under 18","Poverty Status Determined","Percent","Margins of Error",0.51
+"New London County","09011","2013-2017","American Indian and Alaska Native Alone","Total","Below Poverty Level","Number","Poverty Status",224
+"New London County","09011","2013-2017","American Indian and Alaska Native Alone","Total","Below Poverty Level","Number","Margins of Error",179
+"New London County","09011","2013-2017","American Indian and Alaska Native Alone","Total","Below Poverty Level","Percent","Poverty Status",13.86
+"New London County","09011","2013-2017","American Indian and Alaska Native Alone","Total","Below Poverty Level","Percent","Margins of Error",10.7
+"New London County","09011","2013-2017","American Indian and Alaska Native Alone","Total","Poverty Status Determined","Number","Poverty Status",1616
+"New London County","09011","2013-2017","American Indian and Alaska Native Alone","Total","Poverty Status Determined","Number","Margins of Error",333
+"New London County","09011","2013-2017","American Indian and Alaska Native Alone","Under 18","Below Poverty Level","Number","Poverty Status",21
+"New London County","09011","2013-2017","American Indian and Alaska Native Alone","Under 18","Below Poverty Level","Number","Margins of Error",87.81
+"New London County","09011","2013-2017","American Indian and Alaska Native Alone","Under 18","Below Poverty Level","Percent","Poverty Status",8.61
+"New London County","09011","2013-2017","American Indian and Alaska Native Alone","Under 18","Below Poverty Level","Percent","Margins of Error",36.23
+"New London County","09011","2013-2017","American Indian and Alaska Native Alone","Under 18","Poverty Status Determined","Number","Poverty Status",244
+"New London County","09011","2013-2017","American Indian and Alaska Native Alone","Under 18","Poverty Status Determined","Number","Margins of Error",117.72
+"New London County","09011","2013-2017","American Indian and Alaska Native Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",15.1
+"New London County","09011","2013-2017","American Indian and Alaska Native Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",6.59
+"New London County","09011","2013-2017","Asian Alone","Total","Below Poverty Level","Number","Poverty Status",736
+"New London County","09011","2013-2017","Asian Alone","Total","Below Poverty Level","Number","Margins of Error",312
+"New London County","09011","2013-2017","Asian Alone","Total","Below Poverty Level","Percent","Poverty Status",6.7
+"New London County","09011","2013-2017","Asian Alone","Total","Below Poverty Level","Percent","Margins of Error",2.83
+"New London County","09011","2013-2017","Asian Alone","Total","Poverty Status Determined","Number","Poverty Status",10992
+"New London County","09011","2013-2017","Asian Alone","Total","Poverty Status Determined","Number","Margins of Error",397
+"New London County","09011","2013-2017","Asian Alone","Under 18","Below Poverty Level","Number","Poverty Status",203
+"New London County","09011","2013-2017","Asian Alone","Under 18","Below Poverty Level","Number","Margins of Error",115.36
+"New London County","09011","2013-2017","Asian Alone","Under 18","Below Poverty Level","Percent","Poverty Status",9.36
+"New London County","09011","2013-2017","Asian Alone","Under 18","Below Poverty Level","Percent","Margins of Error",5.2
+"New London County","09011","2013-2017","Asian Alone","Under 18","Poverty Status Determined","Number","Poverty Status",2168
+"New London County","09011","2013-2017","Asian Alone","Under 18","Poverty Status Determined","Number","Margins of Error",261.68
+"New London County","09011","2013-2017","Asian Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",19.72
+"New London County","09011","2013-2017","Asian Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",2.27
+"New London County","09011","2013-2017","Black or African American Alone","Total","Below Poverty Level","Number","Poverty Status",3012
+"New London County","09011","2013-2017","Black or African American Alone","Total","Below Poverty Level","Number","Margins of Error",701
+"New London County","09011","2013-2017","Black or African American Alone","Total","Below Poverty Level","Percent","Poverty Status",21.67
+"New London County","09011","2013-2017","Black or African American Alone","Total","Below Poverty Level","Percent","Margins of Error",4.9
+"New London County","09011","2013-2017","Black or African American Alone","Total","Poverty Status Determined","Number","Poverty Status",13898
+"New London County","09011","2013-2017","Black or African American Alone","Total","Poverty Status Determined","Number","Margins of Error",757
+"New London County","09011","2013-2017","Black or African American Alone","Under 18","Below Poverty Level","Number","Poverty Status",1145
+"New London County","09011","2013-2017","Black or African American Alone","Under 18","Below Poverty Level","Number","Margins of Error",281.94
+"New London County","09011","2013-2017","Black or African American Alone","Under 18","Below Poverty Level","Percent","Poverty Status",33.18
+"New London County","09011","2013-2017","Black or African American Alone","Under 18","Below Poverty Level","Percent","Margins of Error",6.88
+"New London County","09011","2013-2017","Black or African American Alone","Under 18","Poverty Status Determined","Number","Poverty Status",3451
+"New London County","09011","2013-2017","Black or African American Alone","Under 18","Poverty Status Determined","Number","Margins of Error",458.4
+"New London County","09011","2013-2017","Black or African American Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",24.83
+"New London County","09011","2013-2017","Black or African American Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",3.01
+"New London County","09011","2013-2017","Hispanic or Latino","Total","Below Poverty Level","Number","Poverty Status",6338
+"New London County","09011","2013-2017","Hispanic or Latino","Total","Below Poverty Level","Number","Margins of Error",808
+"New London County","09011","2013-2017","Hispanic or Latino","Total","Below Poverty Level","Percent","Poverty Status",24.93
+"New London County","09011","2013-2017","Hispanic or Latino","Total","Below Poverty Level","Percent","Margins of Error",3.17
+"New London County","09011","2013-2017","Hispanic or Latino","Total","Poverty Status Determined","Number","Poverty Status",25421
+"New London County","09011","2013-2017","Hispanic or Latino","Total","Poverty Status Determined","Number","Margins of Error",271
+"New London County","09011","2013-2017","Hispanic or Latino","Under 18","Below Poverty Level","Number","Poverty Status",2964
+"New London County","09011","2013-2017","Hispanic or Latino","Under 18","Below Poverty Level","Number","Margins of Error",435.02
+"New London County","09011","2013-2017","Hispanic or Latino","Under 18","Below Poverty Level","Percent","Poverty Status",34.31
+"New London County","09011","2013-2017","Hispanic or Latino","Under 18","Below Poverty Level","Percent","Margins of Error",4.3
+"New London County","09011","2013-2017","Hispanic or Latino","Under 18","Poverty Status Determined","Number","Poverty Status",8638
+"New London County","09011","2013-2017","Hispanic or Latino","Under 18","Poverty Status Determined","Number","Margins of Error",660.01
+"New London County","09011","2013-2017","Hispanic or Latino","Under 18","Poverty Status Determined","Percent","Poverty Status",33.98
+"New London County","09011","2013-2017","Hispanic or Latino","Under 18","Poverty Status Determined","Percent","Margins of Error",2.57
+"New London County","09011","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Below Poverty Level","Number","Poverty Status",7
+"New London County","09011","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Below Poverty Level","Number","Margins of Error",13
+"New London County","09011","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Below Poverty Level","Percent","Poverty Status",11.48
+"New London County","09011","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Below Poverty Level","Percent","Margins of Error",22.86
+"New London County","09011","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Poverty Status Determined","Number","Poverty Status",61
+"New London County","09011","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Poverty Status Determined","Number","Margins of Error",44
+"New London County","09011","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Below Poverty Level","Number","Poverty Status",0
+"New London County","09011","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Below Poverty Level","Number","Margins of Error",96.99
+"New London County","09011","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Below Poverty Level","Percent","Poverty Status",0
+"New London County","09011","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Below Poverty Level","Percent","Margins of Error",387.98
+"New London County","09011","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Poverty Status Determined","Number","Poverty Status",25
+"New London County","09011","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Poverty Status Determined","Number","Margins of Error",139.03
+"New London County","09011","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Poverty Status Determined","Percent","Poverty Status",40.98
+"New London County","09011","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Poverty Status Determined","Percent","Margins of Error",229.82
+"New London County","09011","2013-2017","Some Other Race Alone","Total","Below Poverty Level","Number","Poverty Status",2370
+"New London County","09011","2013-2017","Some Other Race Alone","Total","Below Poverty Level","Number","Margins of Error",673
+"New London County","09011","2013-2017","Some Other Race Alone","Total","Below Poverty Level","Percent","Poverty Status",31.72
+"New London County","09011","2013-2017","Some Other Race Alone","Total","Below Poverty Level","Percent","Margins of Error",8.09
+"New London County","09011","2013-2017","Some Other Race Alone","Total","Poverty Status Determined","Number","Poverty Status",7471
+"New London County","09011","2013-2017","Some Other Race Alone","Total","Poverty Status Determined","Number","Margins of Error",932
+"New London County","09011","2013-2017","Some Other Race Alone","Under 18","Below Poverty Level","Number","Poverty Status",854
+"New London County","09011","2013-2017","Some Other Race Alone","Under 18","Below Poverty Level","Number","Margins of Error",244.02
+"New London County","09011","2013-2017","Some Other Race Alone","Under 18","Below Poverty Level","Percent","Poverty Status",47.98
+"New London County","09011","2013-2017","Some Other Race Alone","Under 18","Below Poverty Level","Percent","Margins of Error",10.16
+"New London County","09011","2013-2017","Some Other Race Alone","Under 18","Poverty Status Determined","Number","Poverty Status",1780
+"New London County","09011","2013-2017","Some Other Race Alone","Under 18","Poverty Status Determined","Number","Margins of Error",341.55
+"New London County","09011","2013-2017","Some Other Race Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",23.83
+"New London County","09011","2013-2017","Some Other Race Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",3.47
+"New London County","09011","2013-2017","Two or More Races","Total","Below Poverty Level","Number","Poverty Status",2277
+"New London County","09011","2013-2017","Two or More Races","Total","Below Poverty Level","Number","Margins of Error",628
+"New London County","09011","2013-2017","Two or More Races","Total","Below Poverty Level","Percent","Poverty Status",17.23
+"New London County","09011","2013-2017","Two or More Races","Total","Below Poverty Level","Percent","Margins of Error",4.54
+"New London County","09011","2013-2017","Two or More Races","Total","Poverty Status Determined","Number","Poverty Status",13217
+"New London County","09011","2013-2017","Two or More Races","Total","Poverty Status Determined","Number","Margins of Error",1076
+"New London County","09011","2013-2017","Two or More Races","Under 18","Below Poverty Level","Number","Poverty Status",1408
+"New London County","09011","2013-2017","Two or More Races","Under 18","Below Poverty Level","Number","Margins of Error",343.43
+"New London County","09011","2013-2017","Two or More Races","Under 18","Below Poverty Level","Percent","Poverty Status",21.35
+"New London County","09011","2013-2017","Two or More Races","Under 18","Below Poverty Level","Percent","Margins of Error",4.8
+"New London County","09011","2013-2017","Two or More Races","Under 18","Poverty Status Determined","Number","Poverty Status",6596
+"New London County","09011","2013-2017","Two or More Races","Under 18","Poverty Status Determined","Number","Margins of Error",621.87
+"New London County","09011","2013-2017","Two or More Races","Under 18","Poverty Status Determined","Percent","Poverty Status",49.91
+"New London County","09011","2013-2017","Two or More Races","Under 18","Poverty Status Determined","Percent","Margins of Error",2.37
+"New London County","09011","2013-2017","White Alone","Total","Below Poverty Level","Number","Poverty Status",17063
+"New London County","09011","2013-2017","White Alone","Total","Below Poverty Level","Number","Margins of Error",1490
+"New London County","09011","2013-2017","White Alone","Total","Below Poverty Level","Percent","Poverty Status",8.07
+"New London County","09011","2013-2017","White Alone","Total","Below Poverty Level","Percent","Margins of Error",0.7
+"New London County","09011","2013-2017","White Alone","Total","Poverty Status Determined","Number","Poverty Status",211319
+"New London County","09011","2013-2017","White Alone","Total","Poverty Status Determined","Number","Margins of Error",1196
+"New London County","09011","2013-2017","White Alone","Under 18","Below Poverty Level","Number","Poverty Status",4758
+"New London County","09011","2013-2017","White Alone","Under 18","Below Poverty Level","Number","Margins of Error",577.01
+"New London County","09011","2013-2017","White Alone","Under 18","Below Poverty Level","Percent","Poverty Status",12.17
+"New London County","09011","2013-2017","White Alone","Under 18","Below Poverty Level","Percent","Margins of Error",1.44
+"New London County","09011","2013-2017","White Alone","Under 18","Poverty Status Determined","Number","Poverty Status",39096
+"New London County","09011","2013-2017","White Alone","Under 18","Poverty Status Determined","Number","Margins of Error",1085.77
+"New London County","09011","2013-2017","White Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",18.5
+"New London County","09011","2013-2017","White Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",0.5
+"New London County","09011","2013-2017","White Alone Not Hispanic or Latino","Total","Below Poverty Level","Number","Poverty Status",14222
+"New London County","09011","2013-2017","White Alone Not Hispanic or Latino","Total","Below Poverty Level","Number","Margins of Error",1411
+"New London County","09011","2013-2017","White Alone Not Hispanic or Latino","Total","Below Poverty Level","Percent","Poverty Status",7.17
+"New London County","09011","2013-2017","White Alone Not Hispanic or Latino","Total","Below Poverty Level","Percent","Margins of Error",0.71
+"New London County","09011","2013-2017","White Alone Not Hispanic or Latino","Total","Poverty Status Determined","Number","Poverty Status",198398
+"New London County","09011","2013-2017","White Alone Not Hispanic or Latino","Total","Poverty Status Determined","Number","Margins of Error",535
+"New London County","09011","2013-2017","White Alone Not Hispanic or Latino","Under 18","Below Poverty Level","Number","Poverty Status",3344
+"New London County","09011","2013-2017","White Alone Not Hispanic or Latino","Under 18","Below Poverty Level","Number","Margins of Error",482.48
+"New London County","09011","2013-2017","White Alone Not Hispanic or Latino","Under 18","Below Poverty Level","Percent","Poverty Status",9.6
+"New London County","09011","2013-2017","White Alone Not Hispanic or Latino","Under 18","Below Poverty Level","Percent","Margins of Error",1.36
+"New London County","09011","2013-2017","White Alone Not Hispanic or Latino","Under 18","Poverty Status Determined","Number","Poverty Status",34848
+"New London County","09011","2013-2017","White Alone Not Hispanic or Latino","Under 18","Poverty Status Determined","Number","Margins of Error",943.62
+"New London County","09011","2013-2017","White Alone Not Hispanic or Latino","Under 18","Poverty Status Determined","Percent","Poverty Status",17.56
+"New London County","09011","2013-2017","White Alone Not Hispanic or Latino","Under 18","Poverty Status Determined","Percent","Margins of Error",0.47
+"Tolland County","09013","2013-2017","All","Total","Below Poverty Level","Number","Poverty Status",8798
+"Tolland County","09013","2013-2017","All","Total","Below Poverty Level","Number","Margins of Error",908
+"Tolland County","09013","2013-2017","All","Total","Below Poverty Level","Percent","Poverty Status",6.48
+"Tolland County","09013","2013-2017","All","Total","Below Poverty Level","Percent","Margins of Error",0.67
+"Tolland County","09013","2013-2017","All","Total","Poverty Status Determined","Number","Poverty Status",135845
+"Tolland County","09013","2013-2017","All","Total","Poverty Status Determined","Number","Margins of Error",888
+"Tolland County","09013","2013-2017","All","Under 18","Below Poverty Level","Number","Poverty Status",1417
+"Tolland County","09013","2013-2017","All","Under 18","Below Poverty Level","Number","Margins of Error",280.89
+"Tolland County","09013","2013-2017","All","Under 18","Below Poverty Level","Percent","Poverty Status",5.22
+"Tolland County","09013","2013-2017","All","Under 18","Below Poverty Level","Percent","Margins of Error",1.02
+"Tolland County","09013","2013-2017","All","Under 18","Poverty Status Determined","Number","Poverty Status",27131
+"Tolland County","09013","2013-2017","All","Under 18","Poverty Status Determined","Number","Margins of Error",889.63
+"Tolland County","09013","2013-2017","All","Under 18","Poverty Status Determined","Percent","Poverty Status",19.97
+"Tolland County","09013","2013-2017","All","Under 18","Poverty Status Determined","Percent","Margins of Error",0.64
+"Tolland County","09013","2013-2017","American Indian and Alaska Native Alone","Total","Below Poverty Level","Number","Poverty Status",0
+"Tolland County","09013","2013-2017","American Indian and Alaska Native Alone","Total","Below Poverty Level","Number","Margins of Error",28
+"Tolland County","09013","2013-2017","American Indian and Alaska Native Alone","Total","Below Poverty Level","Percent","Poverty Status",0
+"Tolland County","09013","2013-2017","American Indian and Alaska Native Alone","Total","Below Poverty Level","Percent","Margins of Error",73.68
+"Tolland County","09013","2013-2017","American Indian and Alaska Native Alone","Total","Poverty Status Determined","Number","Poverty Status",38
+"Tolland County","09013","2013-2017","American Indian and Alaska Native Alone","Total","Poverty Status Determined","Number","Margins of Error",28
+"Tolland County","09013","2013-2017","American Indian and Alaska Native Alone","Under 18","Below Poverty Level","Number","Poverty Status",0
+"Tolland County","09013","2013-2017","American Indian and Alaska Native Alone","Under 18","Below Poverty Level","Number","Margins of Error",96.99
+"Tolland County","09013","2013-2017","American Indian and Alaska Native Alone","Under 18","Below Poverty Level","Percent","Poverty Status",-9999
+"Tolland County","09013","2013-2017","American Indian and Alaska Native Alone","Under 18","Below Poverty Level","Percent","Margins of Error",-9999
+"Tolland County","09013","2013-2017","American Indian and Alaska Native Alone","Under 18","Poverty Status Determined","Number","Poverty Status",0
+"Tolland County","09013","2013-2017","American Indian and Alaska Native Alone","Under 18","Poverty Status Determined","Number","Margins of Error",137.17
+"Tolland County","09013","2013-2017","American Indian and Alaska Native Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",0
+"Tolland County","09013","2013-2017","American Indian and Alaska Native Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",360.98
+"Tolland County","09013","2013-2017","Asian Alone","Total","Below Poverty Level","Number","Poverty Status",543
+"Tolland County","09013","2013-2017","Asian Alone","Total","Below Poverty Level","Number","Margins of Error",205
+"Tolland County","09013","2013-2017","Asian Alone","Total","Below Poverty Level","Percent","Poverty Status",10.71
+"Tolland County","09013","2013-2017","Asian Alone","Total","Below Poverty Level","Percent","Margins of Error",3.99
+"Tolland County","09013","2013-2017","Asian Alone","Total","Poverty Status Determined","Number","Poverty Status",5068
+"Tolland County","09013","2013-2017","Asian Alone","Total","Poverty Status Determined","Number","Margins of Error",309
+"Tolland County","09013","2013-2017","Asian Alone","Under 18","Below Poverty Level","Number","Poverty Status",43
+"Tolland County","09013","2013-2017","Asian Alone","Under 18","Below Poverty Level","Number","Margins of Error",91.74
+"Tolland County","09013","2013-2017","Asian Alone","Under 18","Below Poverty Level","Percent","Poverty Status",3.44
+"Tolland County","09013","2013-2017","Asian Alone","Under 18","Below Poverty Level","Percent","Margins of Error",7.31
+"Tolland County","09013","2013-2017","Asian Alone","Under 18","Poverty Status Determined","Number","Poverty Status",1251
+"Tolland County","09013","2013-2017","Asian Alone","Under 18","Poverty Status Determined","Number","Margins of Error",194.32
+"Tolland County","09013","2013-2017","Asian Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",24.68
+"Tolland County","09013","2013-2017","Asian Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",3.53
+"Tolland County","09013","2013-2017","Black or African American Alone","Total","Below Poverty Level","Number","Poverty Status",558
+"Tolland County","09013","2013-2017","Black or African American Alone","Total","Below Poverty Level","Number","Margins of Error",238
+"Tolland County","09013","2013-2017","Black or African American Alone","Total","Below Poverty Level","Percent","Poverty Status",17.4
+"Tolland County","09013","2013-2017","Black or African American Alone","Total","Below Poverty Level","Percent","Margins of Error",7.12
+"Tolland County","09013","2013-2017","Black or African American Alone","Total","Poverty Status Determined","Number","Poverty Status",3207
+"Tolland County","09013","2013-2017","Black or African American Alone","Total","Poverty Status Determined","Number","Margins of Error",383
+"Tolland County","09013","2013-2017","Black or African American Alone","Under 18","Below Poverty Level","Number","Poverty Status",179
+"Tolland County","09013","2013-2017","Black or African American Alone","Under 18","Below Poverty Level","Number","Margins of Error",135.33
+"Tolland County","09013","2013-2017","Black or African American Alone","Under 18","Below Poverty Level","Percent","Poverty Status",22.46
+"Tolland County","09013","2013-2017","Black or African American Alone","Under 18","Below Poverty Level","Percent","Margins of Error",15.25
+"Tolland County","09013","2013-2017","Black or African American Alone","Under 18","Poverty Status Determined","Number","Poverty Status",797
+"Tolland County","09013","2013-2017","Black or African American Alone","Under 18","Poverty Status Determined","Number","Margins of Error",265.04
+"Tolland County","09013","2013-2017","Black or African American Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",24.85
+"Tolland County","09013","2013-2017","Black or African American Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",7.71
+"Tolland County","09013","2013-2017","Hispanic or Latino","Total","Below Poverty Level","Number","Poverty Status",1160
+"Tolland County","09013","2013-2017","Hispanic or Latino","Total","Below Poverty Level","Number","Margins of Error",411
+"Tolland County","09013","2013-2017","Hispanic or Latino","Total","Below Poverty Level","Percent","Poverty Status",17.71
+"Tolland County","09013","2013-2017","Hispanic or Latino","Total","Below Poverty Level","Percent","Margins of Error",6.25
+"Tolland County","09013","2013-2017","Hispanic or Latino","Total","Poverty Status Determined","Number","Poverty Status",6550
+"Tolland County","09013","2013-2017","Hispanic or Latino","Total","Poverty Status Determined","Number","Margins of Error",203
+"Tolland County","09013","2013-2017","Hispanic or Latino","Under 18","Below Poverty Level","Number","Poverty Status",345
+"Tolland County","09013","2013-2017","Hispanic or Latino","Under 18","Below Poverty Level","Number","Margins of Error",184.08
+"Tolland County","09013","2013-2017","Hispanic or Latino","Under 18","Below Poverty Level","Percent","Poverty Status",16.66
+"Tolland County","09013","2013-2017","Hispanic or Latino","Under 18","Below Poverty Level","Percent","Margins of Error",8.5
+"Tolland County","09013","2013-2017","Hispanic or Latino","Under 18","Poverty Status Determined","Number","Poverty Status",2071
+"Tolland County","09013","2013-2017","Hispanic or Latino","Under 18","Poverty Status Determined","Number","Margins of Error",321.13
+"Tolland County","09013","2013-2017","Hispanic or Latino","Under 18","Poverty Status Determined","Percent","Poverty Status",31.62
+"Tolland County","09013","2013-2017","Hispanic or Latino","Under 18","Poverty Status Determined","Percent","Margins of Error",4.8
+"Tolland County","09013","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Below Poverty Level","Number","Poverty Status",0
+"Tolland County","09013","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Below Poverty Level","Number","Margins of Error",28
+"Tolland County","09013","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Below Poverty Level","Percent","Poverty Status",0
+"Tolland County","09013","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Below Poverty Level","Percent","Margins of Error",560
+"Tolland County","09013","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Poverty Status Determined","Number","Poverty Status",5
+"Tolland County","09013","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Poverty Status Determined","Number","Margins of Error",8
+"Tolland County","09013","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Below Poverty Level","Number","Poverty Status",0
+"Tolland County","09013","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Below Poverty Level","Number","Margins of Error",96.99
+"Tolland County","09013","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Below Poverty Level","Percent","Poverty Status",-9999
+"Tolland County","09013","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Below Poverty Level","Percent","Margins of Error",-9999
+"Tolland County","09013","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Poverty Status Determined","Number","Poverty Status",0
+"Tolland County","09013","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Poverty Status Determined","Number","Margins of Error",137.17
+"Tolland County","09013","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Poverty Status Determined","Percent","Poverty Status",0
+"Tolland County","09013","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Poverty Status Determined","Percent","Margins of Error",2743.43
+"Tolland County","09013","2013-2017","Some Other Race Alone","Total","Below Poverty Level","Number","Poverty Status",282
+"Tolland County","09013","2013-2017","Some Other Race Alone","Total","Below Poverty Level","Number","Margins of Error",216
+"Tolland County","09013","2013-2017","Some Other Race Alone","Total","Below Poverty Level","Percent","Poverty Status",16.89
+"Tolland County","09013","2013-2017","Some Other Race Alone","Total","Below Poverty Level","Percent","Margins of Error",11.96
+"Tolland County","09013","2013-2017","Some Other Race Alone","Total","Poverty Status Determined","Number","Poverty Status",1670
+"Tolland County","09013","2013-2017","Some Other Race Alone","Total","Poverty Status Determined","Number","Margins of Error",487
+"Tolland County","09013","2013-2017","Some Other Race Alone","Under 18","Below Poverty Level","Number","Poverty Status",76
+"Tolland County","09013","2013-2017","Some Other Race Alone","Under 18","Below Poverty Level","Number","Margins of Error",115.61
+"Tolland County","09013","2013-2017","Some Other Race Alone","Under 18","Below Poverty Level","Percent","Poverty Status",17.55
+"Tolland County","09013","2013-2017","Some Other Race Alone","Under 18","Below Poverty Level","Percent","Margins of Error",25.38
+"Tolland County","09013","2013-2017","Some Other Race Alone","Under 18","Poverty Status Determined","Number","Poverty Status",433
+"Tolland County","09013","2013-2017","Some Other Race Alone","Under 18","Poverty Status Determined","Number","Margins of Error",204.41
+"Tolland County","09013","2013-2017","Some Other Race Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",25.93
+"Tolland County","09013","2013-2017","Some Other Race Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",9.63
+"Tolland County","09013","2013-2017","Two or More Races","Total","Below Poverty Level","Number","Poverty Status",295
+"Tolland County","09013","2013-2017","Two or More Races","Total","Below Poverty Level","Number","Margins of Error",184
+"Tolland County","09013","2013-2017","Two or More Races","Total","Below Poverty Level","Percent","Poverty Status",10.02
+"Tolland County","09013","2013-2017","Two or More Races","Total","Below Poverty Level","Percent","Margins of Error",5.97
+"Tolland County","09013","2013-2017","Two or More Races","Total","Poverty Status Determined","Number","Poverty Status",2944
+"Tolland County","09013","2013-2017","Two or More Races","Total","Poverty Status Determined","Number","Margins of Error",548
+"Tolland County","09013","2013-2017","Two or More Races","Under 18","Below Poverty Level","Number","Poverty Status",170
+"Tolland County","09013","2013-2017","Two or More Races","Under 18","Below Poverty Level","Number","Margins of Error",130.32
+"Tolland County","09013","2013-2017","Two or More Races","Under 18","Below Poverty Level","Percent","Poverty Status",10.85
+"Tolland County","09013","2013-2017","Two or More Races","Under 18","Below Poverty Level","Percent","Margins of Error",8.04
+"Tolland County","09013","2013-2017","Two or More Races","Under 18","Poverty Status Determined","Number","Poverty Status",1567
+"Tolland County","09013","2013-2017","Two or More Races","Under 18","Poverty Status Determined","Number","Margins of Error",306.81
+"Tolland County","09013","2013-2017","Two or More Races","Under 18","Poverty Status Determined","Percent","Poverty Status",53.23
+"Tolland County","09013","2013-2017","Two or More Races","Under 18","Poverty Status Determined","Percent","Margins of Error",3.23
+"Tolland County","09013","2013-2017","White Alone","Total","Below Poverty Level","Number","Poverty Status",7120
+"Tolland County","09013","2013-2017","White Alone","Total","Below Poverty Level","Number","Margins of Error",869
+"Tolland County","09013","2013-2017","White Alone","Total","Below Poverty Level","Percent","Poverty Status",5.79
+"Tolland County","09013","2013-2017","White Alone","Total","Below Poverty Level","Percent","Margins of Error",0.71
+"Tolland County","09013","2013-2017","White Alone","Total","Poverty Status Determined","Number","Poverty Status",122913
+"Tolland County","09013","2013-2017","White Alone","Total","Poverty Status Determined","Number","Margins of Error",946
+"Tolland County","09013","2013-2017","White Alone","Under 18","Below Poverty Level","Number","Poverty Status",949
+"Tolland County","09013","2013-2017","White Alone","Under 18","Below Poverty Level","Number","Margins of Error",211.66
+"Tolland County","09013","2013-2017","White Alone","Under 18","Below Poverty Level","Percent","Poverty Status",4.11
+"Tolland County","09013","2013-2017","White Alone","Under 18","Below Poverty Level","Percent","Margins of Error",0.91
+"Tolland County","09013","2013-2017","White Alone","Under 18","Poverty Status Determined","Number","Poverty Status",23083
+"Tolland County","09013","2013-2017","White Alone","Under 18","Poverty Status Determined","Number","Margins of Error",785.69
+"Tolland County","09013","2013-2017","White Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",18.78
+"Tolland County","09013","2013-2017","White Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",0.62
+"Tolland County","09013","2013-2017","White Alone Not Hispanic or Latino","Total","Below Poverty Level","Number","Poverty Status",6464
+"Tolland County","09013","2013-2017","White Alone Not Hispanic or Latino","Total","Below Poverty Level","Number","Margins of Error",757
+"Tolland County","09013","2013-2017","White Alone Not Hispanic or Latino","Total","Below Poverty Level","Percent","Poverty Status",5.45
+"Tolland County","09013","2013-2017","White Alone Not Hispanic or Latino","Total","Below Poverty Level","Percent","Margins of Error",0.64
+"Tolland County","09013","2013-2017","White Alone Not Hispanic or Latino","Total","Poverty Status Determined","Number","Poverty Status",118711
+"Tolland County","09013","2013-2017","White Alone Not Hispanic or Latino","Total","Poverty Status Determined","Number","Margins of Error",784
+"Tolland County","09013","2013-2017","White Alone Not Hispanic or Latino","Under 18","Below Poverty Level","Number","Poverty Status",891
+"Tolland County","09013","2013-2017","White Alone Not Hispanic or Latino","Under 18","Below Poverty Level","Number","Margins of Error",203.13
+"Tolland County","09013","2013-2017","White Alone Not Hispanic or Latino","Under 18","Below Poverty Level","Percent","Poverty Status",4.06
+"Tolland County","09013","2013-2017","White Alone Not Hispanic or Latino","Under 18","Below Poverty Level","Percent","Margins of Error",0.91
+"Tolland County","09013","2013-2017","White Alone Not Hispanic or Latino","Under 18","Poverty Status Determined","Number","Poverty Status",21955
+"Tolland County","09013","2013-2017","White Alone Not Hispanic or Latino","Under 18","Poverty Status Determined","Number","Margins of Error",747.9
+"Tolland County","09013","2013-2017","White Alone Not Hispanic or Latino","Under 18","Poverty Status Determined","Percent","Poverty Status",18.49
+"Tolland County","09013","2013-2017","White Alone Not Hispanic or Latino","Under 18","Poverty Status Determined","Percent","Margins of Error",0.62
+"Windham County","09015","2013-2017","All","Total","Below Poverty Level","Number","Poverty Status",12313
+"Windham County","09015","2013-2017","All","Total","Below Poverty Level","Number","Margins of Error",1160
+"Windham County","09015","2013-2017","All","Total","Below Poverty Level","Percent","Poverty Status",11.06
+"Windham County","09015","2013-2017","All","Total","Below Poverty Level","Percent","Margins of Error",1.04
+"Windham County","09015","2013-2017","All","Total","Poverty Status Determined","Number","Poverty Status",111338
+"Windham County","09015","2013-2017","All","Total","Poverty Status Determined","Number","Margins of Error",483
+"Windham County","09015","2013-2017","All","Under 18","Below Poverty Level","Number","Poverty Status",3439
+"Windham County","09015","2013-2017","All","Under 18","Below Poverty Level","Number","Margins of Error",420.31
+"Windham County","09015","2013-2017","All","Under 18","Below Poverty Level","Percent","Poverty Status",14.86
+"Windham County","09015","2013-2017","All","Under 18","Below Poverty Level","Percent","Margins of Error",1.74
+"Windham County","09015","2013-2017","All","Under 18","Poverty Status Determined","Number","Poverty Status",23144
+"Windham County","09015","2013-2017","All","Under 18","Poverty Status Determined","Number","Margins of Error",811.39
+"Windham County","09015","2013-2017","All","Under 18","Poverty Status Determined","Percent","Poverty Status",20.79
+"Windham County","09015","2013-2017","All","Under 18","Poverty Status Determined","Percent","Margins of Error",0.72
+"Windham County","09015","2013-2017","American Indian and Alaska Native Alone","Total","Below Poverty Level","Number","Poverty Status",124
+"Windham County","09015","2013-2017","American Indian and Alaska Native Alone","Total","Below Poverty Level","Number","Margins of Error",140
+"Windham County","09015","2013-2017","American Indian and Alaska Native Alone","Total","Below Poverty Level","Percent","Poverty Status",17.44
+"Windham County","09015","2013-2017","American Indian and Alaska Native Alone","Total","Below Poverty Level","Percent","Margins of Error",18.09
+"Windham County","09015","2013-2017","American Indian and Alaska Native Alone","Total","Poverty Status Determined","Number","Poverty Status",711
+"Windham County","09015","2013-2017","American Indian and Alaska Native Alone","Total","Poverty Status Determined","Number","Margins of Error",317
+"Windham County","09015","2013-2017","American Indian and Alaska Native Alone","Under 18","Below Poverty Level","Number","Poverty Status",67
+"Windham County","09015","2013-2017","American Indian and Alaska Native Alone","Under 18","Below Poverty Level","Number","Margins of Error",118.19
+"Windham County","09015","2013-2017","American Indian and Alaska Native Alone","Under 18","Below Poverty Level","Percent","Poverty Status",25.09
+"Windham County","09015","2013-2017","American Indian and Alaska Native Alone","Under 18","Below Poverty Level","Percent","Margins of Error",46.98
+"Windham County","09015","2013-2017","American Indian and Alaska Native Alone","Under 18","Poverty Status Determined","Number","Poverty Status",267
+"Windham County","09015","2013-2017","American Indian and Alaska Native Alone","Under 18","Poverty Status Determined","Number","Margins of Error",167.39
+"Windham County","09015","2013-2017","American Indian and Alaska Native Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",37.55
+"Windham County","09015","2013-2017","American Indian and Alaska Native Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",16.55
+"Windham County","09015","2013-2017","Asian Alone","Total","Below Poverty Level","Number","Poverty Status",277
+"Windham County","09015","2013-2017","Asian Alone","Total","Below Poverty Level","Number","Margins of Error",116
+"Windham County","09015","2013-2017","Asian Alone","Total","Below Poverty Level","Percent","Poverty Status",19.18
+"Windham County","09015","2013-2017","Asian Alone","Total","Below Poverty Level","Percent","Margins of Error",7.64
+"Windham County","09015","2013-2017","Asian Alone","Total","Poverty Status Determined","Number","Poverty Status",1444
+"Windham County","09015","2013-2017","Asian Alone","Total","Poverty Status Determined","Number","Margins of Error",186
+"Windham County","09015","2013-2017","Asian Alone","Under 18","Below Poverty Level","Number","Poverty Status",64
+"Windham County","09015","2013-2017","Asian Alone","Under 18","Below Poverty Level","Number","Margins of Error",93.66
+"Windham County","09015","2013-2017","Asian Alone","Under 18","Below Poverty Level","Percent","Poverty Status",19.05
+"Windham County","09015","2013-2017","Asian Alone","Under 18","Below Poverty Level","Percent","Margins of Error",26.4
+"Windham County","09015","2013-2017","Asian Alone","Under 18","Poverty Status Determined","Number","Poverty Status",336
+"Windham County","09015","2013-2017","Asian Alone","Under 18","Poverty Status Determined","Number","Margins of Error",157.88
+"Windham County","09015","2013-2017","Asian Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",23.27
+"Windham County","09015","2013-2017","Asian Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",10.51
+"Windham County","09015","2013-2017","Black or African American Alone","Total","Below Poverty Level","Number","Poverty Status",455
+"Windham County","09015","2013-2017","Black or African American Alone","Total","Below Poverty Level","Number","Margins of Error",179
+"Windham County","09015","2013-2017","Black or African American Alone","Total","Below Poverty Level","Percent","Poverty Status",22.97
+"Windham County","09015","2013-2017","Black or African American Alone","Total","Below Poverty Level","Percent","Margins of Error",8.08
+"Windham County","09015","2013-2017","Black or African American Alone","Total","Poverty Status Determined","Number","Poverty Status",1981
+"Windham County","09015","2013-2017","Black or African American Alone","Total","Poverty Status Determined","Number","Margins of Error",349
+"Windham County","09015","2013-2017","Black or African American Alone","Under 18","Below Poverty Level","Number","Poverty Status",38
+"Windham County","09015","2013-2017","Black or African American Alone","Under 18","Below Poverty Level","Number","Margins of Error",90.01
+"Windham County","09015","2013-2017","Black or African American Alone","Under 18","Below Poverty Level","Percent","Poverty Status",8.48
+"Windham County","09015","2013-2017","Black or African American Alone","Under 18","Below Poverty Level","Percent","Margins of Error",19.82
+"Windham County","09015","2013-2017","Black or African American Alone","Under 18","Poverty Status Determined","Number","Poverty Status",448
+"Windham County","09015","2013-2017","Black or African American Alone","Under 18","Poverty Status Determined","Number","Margins of Error",175.12
+"Windham County","09015","2013-2017","Black or African American Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",22.61
+"Windham County","09015","2013-2017","Black or African American Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",7.89
+"Windham County","09015","2013-2017","Hispanic or Latino","Total","Below Poverty Level","Number","Poverty Status",4086
+"Windham County","09015","2013-2017","Hispanic or Latino","Total","Below Poverty Level","Number","Margins of Error",701
+"Windham County","09015","2013-2017","Hispanic or Latino","Total","Below Poverty Level","Percent","Poverty Status",32.95
+"Windham County","09015","2013-2017","Hispanic or Latino","Total","Below Poverty Level","Percent","Margins of Error",5.64
+"Windham County","09015","2013-2017","Hispanic or Latino","Total","Poverty Status Determined","Number","Poverty Status",12402
+"Windham County","09015","2013-2017","Hispanic or Latino","Total","Poverty Status Determined","Number","Margins of Error",143
+"Windham County","09015","2013-2017","Hispanic or Latino","Under 18","Below Poverty Level","Number","Poverty Status",1857
+"Windham County","09015","2013-2017","Hispanic or Latino","Under 18","Below Poverty Level","Number","Margins of Error",293.07
+"Windham County","09015","2013-2017","Hispanic or Latino","Under 18","Below Poverty Level","Percent","Poverty Status",42.57
+"Windham County","09015","2013-2017","Hispanic or Latino","Under 18","Below Poverty Level","Percent","Margins of Error",5.3
+"Windham County","09015","2013-2017","Hispanic or Latino","Under 18","Poverty Status Determined","Number","Poverty Status",4362
+"Windham County","09015","2013-2017","Hispanic or Latino","Under 18","Poverty Status Determined","Number","Margins of Error",423.18
+"Windham County","09015","2013-2017","Hispanic or Latino","Under 18","Poverty Status Determined","Percent","Poverty Status",35.17
+"Windham County","09015","2013-2017","Hispanic or Latino","Under 18","Poverty Status Determined","Percent","Margins of Error",3.39
+"Windham County","09015","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Below Poverty Level","Number","Poverty Status",0
+"Windham County","09015","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Below Poverty Level","Number","Margins of Error",28
+"Windham County","09015","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Below Poverty Level","Percent","Poverty Status",0
+"Windham County","09015","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Below Poverty Level","Percent","Margins of Error",175
+"Windham County","09015","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Poverty Status Determined","Number","Poverty Status",16
+"Windham County","09015","2013-2017","Native Hawaiian and Other Pacific Islander","Total","Poverty Status Determined","Number","Margins of Error",27
+"Windham County","09015","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Below Poverty Level","Number","Poverty Status",0
+"Windham County","09015","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Below Poverty Level","Number","Margins of Error",96.99
+"Windham County","09015","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Below Poverty Level","Percent","Poverty Status",0
+"Windham County","09015","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Below Poverty Level","Percent","Margins of Error",2424.87
+"Windham County","09015","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Poverty Status Determined","Number","Poverty Status",4
+"Windham County","09015","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Poverty Status Determined","Number","Margins of Error",134.82
+"Windham County","09015","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Poverty Status Determined","Percent","Poverty Status",25
+"Windham County","09015","2013-2017","Native Hawaiian and Other Pacific Islander","Under 18","Poverty Status Determined","Percent","Margins of Error",843.67
+"Windham County","09015","2013-2017","Some Other Race Alone","Total","Below Poverty Level","Number","Poverty Status",1545
+"Windham County","09015","2013-2017","Some Other Race Alone","Total","Below Poverty Level","Number","Margins of Error",495
+"Windham County","09015","2013-2017","Some Other Race Alone","Total","Below Poverty Level","Percent","Poverty Status",42.85
+"Windham County","09015","2013-2017","Some Other Race Alone","Total","Below Poverty Level","Percent","Margins of Error",11.23
+"Windham County","09015","2013-2017","Some Other Race Alone","Total","Poverty Status Determined","Number","Poverty Status",3606
+"Windham County","09015","2013-2017","Some Other Race Alone","Total","Poverty Status Determined","Number","Margins of Error",665
+"Windham County","09015","2013-2017","Some Other Race Alone","Under 18","Below Poverty Level","Number","Poverty Status",657
+"Windham County","09015","2013-2017","Some Other Race Alone","Under 18","Below Poverty Level","Number","Margins of Error",197.27
+"Windham County","09015","2013-2017","Some Other Race Alone","Under 18","Below Poverty Level","Percent","Poverty Status",55.3
+"Windham County","09015","2013-2017","Some Other Race Alone","Under 18","Below Poverty Level","Percent","Margins of Error",11.42
+"Windham County","09015","2013-2017","Some Other Race Alone","Under 18","Poverty Status Determined","Number","Poverty Status",1188
+"Windham County","09015","2013-2017","Some Other Race Alone","Under 18","Poverty Status Determined","Number","Margins of Error",258.94
+"Windham County","09015","2013-2017","Some Other Race Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",32.95
+"Windham County","09015","2013-2017","Some Other Race Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",3.83
+"Windham County","09015","2013-2017","Two or More Races","Total","Below Poverty Level","Number","Poverty Status",921
+"Windham County","09015","2013-2017","Two or More Races","Total","Below Poverty Level","Number","Margins of Error",415
+"Windham County","09015","2013-2017","Two or More Races","Total","Below Poverty Level","Percent","Poverty Status",24.47
+"Windham County","09015","2013-2017","Two or More Races","Total","Below Poverty Level","Percent","Margins of Error",10.41
+"Windham County","09015","2013-2017","Two or More Races","Total","Poverty Status Determined","Number","Poverty Status",3764
+"Windham County","09015","2013-2017","Two or More Races","Total","Poverty Status Determined","Number","Margins of Error",560
+"Windham County","09015","2013-2017","Two or More Races","Under 18","Below Poverty Level","Number","Poverty Status",478
+"Windham County","09015","2013-2017","Two or More Races","Under 18","Below Poverty Level","Number","Margins of Error",213.88
+"Windham County","09015","2013-2017","Two or More Races","Under 18","Below Poverty Level","Percent","Poverty Status",30.33
+"Windham County","09015","2013-2017","Two or More Races","Under 18","Below Poverty Level","Percent","Margins of Error",12.16
+"Windham County","09015","2013-2017","Two or More Races","Under 18","Poverty Status Determined","Number","Poverty Status",1576
+"Windham County","09015","2013-2017","Two or More Races","Under 18","Poverty Status Determined","Number","Margins of Error",313.51
+"Windham County","09015","2013-2017","Two or More Races","Under 18","Poverty Status Determined","Percent","Poverty Status",41.87
+"Windham County","09015","2013-2017","Two or More Races","Under 18","Poverty Status Determined","Percent","Margins of Error",5.53
+"Windham County","09015","2013-2017","White Alone","Total","Below Poverty Level","Number","Poverty Status",8991
+"Windham County","09015","2013-2017","White Alone","Total","Below Poverty Level","Number","Margins of Error",1037
+"Windham County","09015","2013-2017","White Alone","Total","Below Poverty Level","Percent","Poverty Status",9.01
+"Windham County","09015","2013-2017","White Alone","Total","Below Poverty Level","Percent","Margins of Error",1.04
+"Windham County","09015","2013-2017","White Alone","Total","Poverty Status Determined","Number","Poverty Status",99816
+"Windham County","09015","2013-2017","White Alone","Total","Poverty Status Determined","Number","Margins of Error",898
+"Windham County","09015","2013-2017","White Alone","Under 18","Below Poverty Level","Number","Poverty Status",2135
+"Windham County","09015","2013-2017","White Alone","Under 18","Below Poverty Level","Number","Margins of Error",364.26
+"Windham County","09015","2013-2017","White Alone","Under 18","Below Poverty Level","Percent","Poverty Status",11.05
+"Windham County","09015","2013-2017","White Alone","Under 18","Below Poverty Level","Percent","Margins of Error",1.84
+"Windham County","09015","2013-2017","White Alone","Under 18","Poverty Status Determined","Number","Poverty Status",19325
+"Windham County","09015","2013-2017","White Alone","Under 18","Poverty Status Determined","Number","Margins of Error",745.21
+"Windham County","09015","2013-2017","White Alone","Under 18","Poverty Status Determined","Percent","Poverty Status",19.36
+"Windham County","09015","2013-2017","White Alone","Under 18","Poverty Status Determined","Percent","Margins of Error",0.73
+"Windham County","09015","2013-2017","White Alone Not Hispanic or Latino","Total","Below Poverty Level","Number","Poverty Status",7116
+"Windham County","09015","2013-2017","White Alone Not Hispanic or Latino","Total","Below Poverty Level","Number","Margins of Error",967
+"Windham County","09015","2013-2017","White Alone Not Hispanic or Latino","Total","Below Poverty Level","Percent","Poverty Status",7.61
+"Windham County","09015","2013-2017","White Alone Not Hispanic or Latino","Total","Below Poverty Level","Percent","Margins of Error",1.03
+"Windham County","09015","2013-2017","White Alone Not Hispanic or Latino","Total","Poverty Status Determined","Number","Poverty Status",93566
+"Windham County","09015","2013-2017","White Alone Not Hispanic or Latino","Total","Poverty Status Determined","Number","Margins of Error",406
+"Windham County","09015","2013-2017","White Alone Not Hispanic or Latino","Under 18","Below Poverty Level","Number","Poverty Status",1271
+"Windham County","09015","2013-2017","White Alone Not Hispanic or Latino","Under 18","Below Poverty Level","Number","Margins of Error",277.15
+"Windham County","09015","2013-2017","White Alone Not Hispanic or Latino","Under 18","Below Poverty Level","Percent","Poverty Status",7.44
+"Windham County","09015","2013-2017","White Alone Not Hispanic or Latino","Under 18","Below Poverty Level","Percent","Margins of Error",1.6
+"Windham County","09015","2013-2017","White Alone Not Hispanic or Latino","Under 18","Poverty Status Determined","Number","Poverty Status",17073
+"Windham County","09015","2013-2017","White Alone Not Hispanic or Latino","Under 18","Poverty Status Determined","Number","Margins of Error",650.72
+"Windham County","09015","2013-2017","White Alone Not Hispanic or Latino","Under 18","Poverty Status Determined","Percent","Poverty Status",18.25
+"Windham County","09015","2013-2017","White Alone Not Hispanic or Latino","Under 18","Poverty Status Determined","Percent","Margins of Error",0.69

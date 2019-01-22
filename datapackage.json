@@ -15,13 +15,13 @@
     "web": ""
   }],
   "author":[{
-    "name": "Jenna Daly",
-    "email": "jdaly@ctdata.org",
+    "name": "Connecticut Data Collaborative",
+    "email": "info@ctdata.org",
     "web": "http://ctdata.org"
   }],
   "contributor": [],
   "resources": [{
-    "path": "data/poverty-status-by-county-2016.csv",
+    "path": "data/poverty-status-by-county-2017.csv",
     "format": "csv",
     "schema": {
       "fields": [{
@@ -42,33 +42,33 @@
           "dimension": true,
           "constraints": {
             "enum": ["All",
-                     "American Indian and Alaska Native Alone",   
-                     "Asian Alone",                                
-                     "Black or African American Alone",           
-                     "Hispanic or Latino",                         
+                     "American Indian and Alaska Native Alone",
+                     "Asian Alone",
+                     "Black or African American Alone",
+                     "Hispanic or Latino",
                      "Native Hawaiian and Other Pacific Islander",
-                     "Some Other Race Alone",                      
-                     "Two or More Races",                        
-                     "White Alone",                                
+                     "Some Other Race Alone",
+                     "Two or More Races",
+                     "White Alone",
                      "White Alone Not Hispanic or Latino"]
          }
-        }, {      
+        }, {
           "name": "Age",
           "type": "string",
           "dimension": true,
           "constraints": {
-            "enum": ["Total",             
+            "enum": ["Total",
                      "Under 18"]
          }
-        }, {      
+        }, {
           "name": "Poverty Status",
           "type": "string",
           "dimension": true,
           "constraints": {
-            "enum": ["Below Poverty Level", 
+            "enum": ["Below Poverty Level",
                      "Poverty Status Determined"]
          }
-        }, {              
+        }, {
           "name": "Measure Type",
           "type": "string",
           "dimension": true,
@@ -121,7 +121,7 @@
       "ckan_name": "Socrata Dataset Name",
       "value": "",
       "type": "string"
-    }, 
+    },
     "domain": {
       "ckan_name": "Domain",
       "value": "Economy",
@@ -141,7 +141,7 @@
       "ckan_name": "Denominator",
       "value": "Population for which Poverty status has been determined by selected age group.",
       "type": "string"
-    },    
+    },
     "geography": {
       "ckan_name": "Geography",
       "value": "County",
@@ -155,12 +155,12 @@
     },
     "years_in_catalog": {
       "ckan_name": "Years in Catalog",
-      "value": ["2005-2009", "2006-2010", "2007-2011", "2008-2012", "2009-2013", "2010-2014", "2011-2015", "2012-2016"],
+      "value": ["2005-2009", "2006-2010", "2007-2011", "2008-2012", "2009-2013", "2010-2014", "2011-2015", "2012-2016", "2013-2017"],
       "type": "array"
     },
     "latest_year": {
       "ckan_name": "Latest Year Available",
-      "value": "2012-2016",
+      "value": "2013-2017",
       "type": "string"
     },
     "disabled_views": {
@@ -180,19 +180,19 @@
       "ckan_name": "Expected Number of Unique Geographies",
       "value": 9,
       "type": "string"
-    },     
-    "default": {      
+    },
+    "default": {
       "ckan_name": "Default",
       "value": {
         "County": "Connecticut",
-        "Year": ["2012-2016"],
+        "Year": ["2013-2017"],
         "Race/Ethnicity": "All",
         "Poverty Status": "Below Poverty Level",
         "Measure Type": "Percent",
         "Variable": "Poverty Status"
       },
       "type": "object"
-    } 
+    }
   },
   "spot_checks": [
     {
@@ -202,50 +202,50 @@
         "Year":	"2012-2016",
         "Variable":	"Margins of Error",
         "Measure Type":	"Number",
-        "Race/Ethnicity": "Asian Alone", 
-        "Age": "Total", 
+        "Race/Ethnicity": "Asian Alone",
+        "Age": "Total",
         "Poverty Status": "Poverty Status Determined"
       },
       "expected": {
         "type": "$match",
         "number type": "int",
         "value": 1584
-      } 
+      }
     }
   ],
   "dimension_groups": [
      {
-       "Poverty Status": ["Below Poverty Level"],       
+       "Poverty Status": ["Below Poverty Level"],
        "Age": ["Total", "Under 18"],
-       "Race/Ethnicity": ["All", "American Indian and Alaska Native Alone",   
-                          "Asian Alone", "Black or African American Alone", 
+       "Race/Ethnicity": ["All", "American Indian and Alaska Native Alone",
+                          "Asian Alone", "Black or African American Alone",
                           "Hispanic or Latino", "Native Hawaiian and Other Pacific Islander",
-                          "Some Other Race Alone", "Two or More Races", "White Alone", 
+                          "Some Other Race Alone", "Two or More Races", "White Alone",
                           "White Alone Not Hispanic or Latino"],
-       "Measure Type": ["Number", "Percent"],        
-       "Variable": ["Poverty Status", "Margins of Error"]     
-     }, 
+       "Measure Type": ["Number", "Percent"],
+       "Variable": ["Poverty Status", "Margins of Error"]
+     },
      {
-       "Poverty Status": ["Poverty Status Determined"],       
+       "Poverty Status": ["Poverty Status Determined"],
        "Age": ["Total"],
-       "Race/Ethnicity": ["All", "American Indian and Alaska Native Alone",   
-                          "Asian Alone", "Black or African American Alone", 
+       "Race/Ethnicity": ["All", "American Indian and Alaska Native Alone",
+                          "Asian Alone", "Black or African American Alone",
                           "Hispanic or Latino", "Native Hawaiian and Other Pacific Islander",
-                          "Some Other Race Alone", "Two or More Races", "White Alone", 
+                          "Some Other Race Alone", "Two or More Races", "White Alone",
                           "White Alone Not Hispanic or Latino"],
-       "Measure Type": ["Number"],        
-       "Variable": ["Poverty Status", "Margins of Error"]     
-     }, 
+       "Measure Type": ["Number"],
+       "Variable": ["Poverty Status", "Margins of Error"]
+     },
      {
-       "Poverty Status": ["Poverty Status Determined"],       
+       "Poverty Status": ["Poverty Status Determined"],
        "Age": ["Under 18"],
-       "Race/Ethnicity": ["All", "American Indian and Alaska Native Alone",   
-                          "Asian Alone", "Black or African American Alone", 
+       "Race/Ethnicity": ["All", "American Indian and Alaska Native Alone",
+                          "Asian Alone", "Black or African American Alone",
                           "Hispanic or Latino", "Native Hawaiian and Other Pacific Islander",
-                          "Some Other Race Alone", "Two or More Races", "White Alone", 
+                          "Some Other Race Alone", "Two or More Races", "White Alone",
                           "White Alone Not Hispanic or Latino"],
-       "Measure Type": ["Number", "Percent"],        
-       "Variable": ["Poverty Status", "Margins of Error"]     
-     }     
+       "Measure Type": ["Number", "Percent"],
+       "Variable": ["Poverty Status", "Margins of Error"]
+     }
   ]
 }
